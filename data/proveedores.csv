@@ -1,0 +1,301 @@
+nombre,pais,rating,activo,categorias,fecha_registro
+Proveedor_1,Honduras,3.5,true,alimentos|ferreteria,2023-10-20
+Proveedor_2,USA,3.37,true,electronica|textil,2024-07-28
+Proveedor_3,El Salvador,3.82,true,bebidas|alimentos,2025-03-10
+Proveedor_4,USA,4.46,true,ferreteria|bebidas,2026-04-04
+Proveedor_5,El Salvador,4.6,true,bebidas|textil,2025-06-28
+Proveedor_6,Mexico,3.02,false,farmacia|electronica,2024-09-10
+Proveedor_7,Colombia,4.06,true,electronica|farmacia,2026-01-17
+Proveedor_8,El Salvador,3.53,true,bebidas,2024-09-23
+Proveedor_9,El Salvador,4.15,true,farmacia|ferreteria,2023-11-25
+Proveedor_10,Costa Rica,3.95,true,electronica|farmacia,2024-07-09
+Proveedor_11,Guatemala,3.04,false,bebidas|ferreteria,2023-12-28
+Proveedor_12,Guatemala,4.43,true,ferreteria|textil,2024-08-17
+Proveedor_13,El Salvador,4.33,true,ferreteria|electronica,2026-03-10
+Proveedor_14,Panama,4.5,true,bebidas|alimentos,2024-04-24
+Proveedor_15,Colombia,3.34,true,ferreteria,2025-09-14
+Proveedor_16,USA,4.36,true,alimentos,2025-07-09
+Proveedor_17,Guatemala,3.89,true,electronica|textil,2025-12-10
+Proveedor_18,Panama,3.89,true,electronica,2023-10-29
+Proveedor_19,Panama,3.11,false,alimentos|electronica,2026-02-03
+Proveedor_20,El Salvador,3.02,true,alimentos|electronica,2023-12-19
+Proveedor_21,Panama,4.32,true,textil|alimentos,2024-08-19
+Proveedor_22,Guatemala,4.46,true,electronica|bebidas,2024-10-28
+Proveedor_23,Costa Rica,4.22,true,bebidas,2023-09-10
+Proveedor_24,Honduras,3.94,true,bebidas|ferreteria,2025-04-07
+Proveedor_25,Colombia,4.84,true,farmacia,2023-10-16
+Proveedor_26,Panama,3.48,true,ferreteria|electronica,2024-11-07
+Proveedor_27,Guatemala,3.84,true,ferreteria|farmacia,2024-08-27
+Proveedor_28,Colombia,3.4,true,bebidas|ferreteria,2023-12-20
+Proveedor_29,Honduras,4.48,true,ferreteria|alimentos,2024-10-22
+Proveedor_30,Mexico,4.98,true,ferreteria|textil,2025-01-03
+Proveedor_31,Panama,3.56,true,farmacia|bebidas,2024-03-07
+Proveedor_32,El Salvador,3.09,true,textil|electronica,2025-10-08
+Proveedor_33,Guatemala,3.52,true,electronica|textil,2024-01-29
+Proveedor_34,Mexico,3,true,bebidas|alimentos,2024-10-19
+Proveedor_35,Guatemala,3.69,false,electronica|textil,2026-02-24
+Proveedor_36,El Salvador,3.49,true,alimentos,2024-05-14
+Proveedor_37,USA,3.14,true,electronica|alimentos,2024-08-11
+Proveedor_38,Panama,3.73,true,alimentos|ferreteria,2025-02-26
+Proveedor_39,Colombia,3.59,true,alimentos|textil,2024-01-18
+Proveedor_40,Costa Rica,4.91,true,ferreteria,2023-09-08
+Proveedor_41,Costa Rica,3.13,true,alimentos|textil,2024-06-15
+Proveedor_42,USA,4.06,true,electronica|bebidas,2024-12-20
+Proveedor_43,Honduras,3.69,true,ferreteria|farmacia,2024-11-23
+Proveedor_44,USA,4.66,true,ferreteria|farmacia,2025-08-30
+Proveedor_45,USA,4.8,true,ferreteria|electronica,2025-01-02
+Proveedor_46,Mexico,3.49,true,farmacia|alimentos,2025-10-31
+Proveedor_47,Guatemala,4.91,true,farmacia|bebidas,2025-08-23
+Proveedor_48,Honduras,3.78,true,bebidas|electronica,2025-12-13
+Proveedor_49,Colombia,3.68,true,ferreteria|farmacia,2024-02-21
+Proveedor_50,Mexico,4.64,true,farmacia|textil,2025-10-07
+Proveedor_51,USA,4.57,true,alimentos|ferreteria,2025-05-31
+Proveedor_52,El Salvador,4.27,true,textil|ferreteria,2023-12-29
+Proveedor_53,Guatemala,3.59,true,ferreteria|alimentos,2025-12-02
+Proveedor_54,Mexico,4.98,true,textil,2024-06-29
+Proveedor_55,USA,4.12,true,textil,2023-09-10
+Proveedor_56,El Salvador,3.53,true,farmacia|electronica,2025-10-05
+Proveedor_57,Colombia,4.27,true,electronica|textil,2025-09-18
+Proveedor_58,Panama,4.15,true,electronica|textil,2025-05-17
+Proveedor_59,Panama,4.02,true,ferreteria|bebidas,2024-05-24
+Proveedor_60,USA,3.43,true,alimentos,2025-07-08
+Proveedor_61,Panama,4.94,true,textil,2024-03-21
+Proveedor_62,Guatemala,3.87,false,electronica|alimentos,2024-08-19
+Proveedor_63,Honduras,3.49,true,bebidas|electronica,2024-07-20
+Proveedor_64,USA,3.23,true,textil|bebidas,2024-03-26
+Proveedor_65,Panama,4.63,true,electronica|alimentos,2025-06-03
+Proveedor_66,El Salvador,4.85,true,bebidas|electronica,2025-05-30
+Proveedor_67,Colombia,3.88,true,electronica|bebidas,2024-05-16
+Proveedor_68,Guatemala,4.04,true,ferreteria|textil,2024-02-13
+Proveedor_69,Costa Rica,4.57,true,ferreteria|textil,2026-04-09
+Proveedor_70,Mexico,4.36,true,electronica|textil,2024-03-21
+Proveedor_71,El Salvador,4.13,true,electronica|bebidas,2025-04-03
+Proveedor_72,USA,4.24,true,ferreteria|alimentos,2024-03-12
+Proveedor_73,Mexico,3.15,true,ferreteria|farmacia,2025-08-22
+Proveedor_74,Colombia,3.61,true,alimentos|bebidas,2025-04-17
+Proveedor_75,Guatemala,3.29,true,textil|farmacia,2026-03-09
+Proveedor_76,Honduras,4.21,false,ferreteria|bebidas,2025-02-08
+Proveedor_77,Panama,3.14,true,electronica|bebidas,2024-10-11
+Proveedor_78,Guatemala,4.98,true,bebidas|alimentos,2023-12-21
+Proveedor_79,El Salvador,3.27,true,ferreteria,2025-09-02
+Proveedor_80,El Salvador,3.22,true,alimentos|textil,2024-08-22
+Proveedor_81,Guatemala,4.22,true,ferreteria|electronica,2024-10-01
+Proveedor_82,Mexico,3.89,true,bebidas|farmacia,2023-12-23
+Proveedor_83,Panama,4.45,true,electronica,2026-04-05
+Proveedor_84,Honduras,3.51,true,textil|farmacia,2024-01-12
+Proveedor_85,El Salvador,3.33,true,electronica|alimentos,2023-10-08
+Proveedor_86,Colombia,3.18,true,bebidas|ferreteria,2026-03-23
+Proveedor_87,Honduras,4.29,false,electronica|farmacia,2025-08-18
+Proveedor_88,Mexico,4.25,false,bebidas|textil,2025-10-24
+Proveedor_89,Colombia,4.06,true,farmacia|alimentos,2023-08-03
+Proveedor_90,El Salvador,4.15,true,bebidas|alimentos,2025-11-04
+Proveedor_91,Panama,3.75,false,ferreteria|bebidas,2025-04-02
+Proveedor_92,Guatemala,3.93,true,alimentos,2024-11-23
+Proveedor_93,Honduras,3.19,true,electronica,2025-03-01
+Proveedor_94,Colombia,3.06,true,alimentos|ferreteria,2025-06-23
+Proveedor_95,USA,4.22,true,farmacia|alimentos,2025-03-22
+Proveedor_96,El Salvador,3.36,true,ferreteria|bebidas,2026-01-04
+Proveedor_97,Panama,4.19,false,textil|bebidas,2026-03-02
+Proveedor_98,Mexico,3.68,true,farmacia|alimentos,2025-04-02
+Proveedor_99,Mexico,3.18,true,bebidas,2024-01-15
+Proveedor_100,Panama,3.4,true,bebidas|farmacia,2025-02-04
+Proveedor_101,Guatemala,3.96,true,textil|electronica,2025-05-27
+Proveedor_102,USA,3.79,true,ferreteria|alimentos,2024-10-28
+Proveedor_103,El Salvador,3.64,true,textil,2026-03-09
+Proveedor_104,Mexico,3.62,true,electronica|textil,2024-08-23
+Proveedor_105,Guatemala,4.45,true,electronica|bebidas,2024-12-26
+Proveedor_106,Mexico,3.04,true,electronica|bebidas,2024-10-06
+Proveedor_107,USA,4.64,true,bebidas|electronica,2023-11-22
+Proveedor_108,Mexico,4.59,true,bebidas|farmacia,2024-06-07
+Proveedor_109,USA,4.73,true,bebidas,2023-12-04
+Proveedor_110,Honduras,3.42,true,electronica|farmacia,2025-03-14
+Proveedor_111,Colombia,3.26,true,alimentos|ferreteria,2025-05-19
+Proveedor_112,Panama,3.62,true,textil|farmacia,2024-01-26
+Proveedor_113,Colombia,4.78,true,bebidas|alimentos,2025-10-14
+Proveedor_114,Costa Rica,4.61,true,farmacia|textil,2026-02-18
+Proveedor_115,Honduras,3.01,true,farmacia|electronica,2026-01-18
+Proveedor_116,Honduras,3.83,true,farmacia|bebidas,2025-01-23
+Proveedor_117,Colombia,3.92,true,electronica,2023-09-06
+Proveedor_118,USA,3.45,false,farmacia|bebidas,2025-12-20
+Proveedor_119,Panama,4.82,true,ferreteria,2024-09-27
+Proveedor_120,Panama,3.54,true,bebidas|electronica,2026-04-02
+Proveedor_121,Colombia,4.17,true,alimentos,2024-11-20
+Proveedor_122,Costa Rica,3.32,true,farmacia|electronica,2025-06-29
+Proveedor_123,Mexico,4,false,ferreteria,2026-01-03
+Proveedor_124,Mexico,3.97,true,textil|electronica,2026-01-26
+Proveedor_125,El Salvador,4.28,true,ferreteria|farmacia,2024-08-15
+Proveedor_126,USA,3.4,true,alimentos|electronica,2025-06-15
+Proveedor_127,Honduras,4.37,true,electronica|farmacia,2026-01-18
+Proveedor_128,Honduras,4.65,true,bebidas|alimentos,2024-02-15
+Proveedor_129,Honduras,3.12,true,ferreteria|electronica,2024-10-09
+Proveedor_130,El Salvador,3.84,true,textil|alimentos,2024-10-02
+Proveedor_131,Mexico,3.76,true,farmacia|bebidas,2024-11-30
+Proveedor_132,Panama,3.09,true,farmacia|ferreteria,2025-12-11
+Proveedor_133,Costa Rica,3.08,true,bebidas|alimentos,2024-09-28
+Proveedor_134,USA,3.82,true,bebidas|textil,2024-05-15
+Proveedor_135,Costa Rica,3.01,true,electronica,2024-11-23
+Proveedor_136,Guatemala,4.86,true,textil|bebidas,2026-04-16
+Proveedor_137,USA,3.37,true,ferreteria,2026-02-11
+Proveedor_138,Costa Rica,3.08,true,bebidas|electronica,2024-11-03
+Proveedor_139,USA,4.82,true,farmacia|bebidas,2025-09-23
+Proveedor_140,Guatemala,3.81,true,textil|alimentos,2024-05-23
+Proveedor_141,Costa Rica,4.51,true,ferreteria,2025-09-30
+Proveedor_142,Panama,4.59,true,textil,2023-10-28
+Proveedor_143,Costa Rica,4.1,true,electronica,2025-09-19
+Proveedor_144,Colombia,3.88,true,textil|ferreteria,2024-09-24
+Proveedor_145,Mexico,3.5,true,textil|farmacia,2023-12-09
+Proveedor_146,Guatemala,4.76,true,farmacia|textil,2025-02-11
+Proveedor_147,Mexico,4.88,true,electronica|textil,2024-04-01
+Proveedor_148,USA,3.22,true,ferreteria|textil,2025-09-29
+Proveedor_149,Costa Rica,4.37,true,farmacia|alimentos,2025-10-29
+Proveedor_150,Colombia,3.81,true,ferreteria|textil,2024-08-21
+Proveedor_151,Colombia,3.61,true,alimentos|electronica,2025-04-15
+Proveedor_152,Colombia,4.45,true,bebidas|electronica,2026-02-17
+Proveedor_153,Honduras,3.23,true,ferreteria|alimentos,2025-03-06
+Proveedor_154,El Salvador,3.05,true,alimentos|electronica,2025-02-19
+Proveedor_155,Honduras,3.32,true,bebidas|farmacia,2024-06-15
+Proveedor_156,USA,3.15,true,farmacia|electronica,2024-12-03
+Proveedor_157,Mexico,4.97,true,farmacia,2025-11-01
+Proveedor_158,Panama,3.98,true,electronica|ferreteria,2026-03-29
+Proveedor_159,Colombia,4.95,true,textil|ferreteria,2024-09-13
+Proveedor_160,Honduras,4.84,false,alimentos|ferreteria,2025-07-07
+Proveedor_161,USA,4.14,true,farmacia|ferreteria,2024-06-13
+Proveedor_162,Mexico,3.48,false,textil|electronica,2024-07-17
+Proveedor_163,Guatemala,3.78,true,textil|alimentos,2025-02-02
+Proveedor_164,USA,4.52,true,bebidas|electronica,2025-06-20
+Proveedor_165,Panama,4.75,false,alimentos|textil,2025-06-28
+Proveedor_166,Panama,3.06,true,bebidas|textil,2024-10-20
+Proveedor_167,Mexico,3.54,true,electronica|alimentos,2023-11-28
+Proveedor_168,Colombia,4.53,true,ferreteria,2026-03-21
+Proveedor_169,Costa Rica,4.26,true,farmacia|textil,2024-09-25
+Proveedor_170,Costa Rica,3.96,false,alimentos|ferreteria,2026-03-31
+Proveedor_171,USA,3.34,true,textil|electronica,2025-04-13
+Proveedor_172,Costa Rica,4.28,true,electronica|textil,2024-11-29
+Proveedor_173,Colombia,3.17,true,textil|alimentos,2024-10-23
+Proveedor_174,USA,3.44,true,textil|alimentos,2023-09-20
+Proveedor_175,Honduras,4.08,true,ferreteria|farmacia,2025-01-10
+Proveedor_176,El Salvador,3.65,true,electronica|farmacia,2024-01-01
+Proveedor_177,Panama,4.73,true,ferreteria|alimentos,2025-10-27
+Proveedor_178,Panama,4.64,true,farmacia|bebidas,2023-09-30
+Proveedor_179,Mexico,4.53,true,ferreteria|bebidas,2024-12-11
+Proveedor_180,Costa Rica,3.82,true,alimentos|electronica,2024-11-15
+Proveedor_181,Guatemala,4.67,true,bebidas|textil,2025-11-13
+Proveedor_182,Mexico,3.28,true,ferreteria|textil,2024-10-30
+Proveedor_183,Guatemala,3.4,true,alimentos|electronica,2025-07-07
+Proveedor_184,Costa Rica,3.2,false,bebidas,2024-11-04
+Proveedor_185,Panama,4.25,true,ferreteria,2023-10-20
+Proveedor_186,Colombia,4.79,true,alimentos|ferreteria,2026-04-06
+Proveedor_187,Mexico,4.24,true,alimentos|electronica,2023-11-22
+Proveedor_188,Mexico,4.79,true,textil|electronica,2025-07-26
+Proveedor_189,Mexico,3.22,false,farmacia|alimentos,2026-02-13
+Proveedor_190,Honduras,3.78,true,alimentos,2024-04-17
+Proveedor_191,Panama,3.69,true,electronica|farmacia,2025-08-07
+Proveedor_192,Honduras,4.59,true,ferreteria,2025-08-31
+Proveedor_193,Honduras,4.64,true,bebidas|electronica,2025-06-10
+Proveedor_194,Panama,3.89,false,alimentos|bebidas,2025-01-10
+Proveedor_195,USA,3.14,true,bebidas,2024-09-20
+Proveedor_196,Mexico,4.66,true,alimentos|electronica,2025-05-30
+Proveedor_197,Guatemala,4.27,true,electronica|textil,2026-04-05
+Proveedor_198,Guatemala,3.24,true,ferreteria|alimentos,2024-03-03
+Proveedor_199,Mexico,4.08,true,alimentos,2023-10-28
+Proveedor_200,Costa Rica,3.93,true,textil|alimentos,2024-10-07
+Proveedor_201,USA,4.44,true,electronica|bebidas,2025-07-22
+Proveedor_202,Costa Rica,4.86,true,electronica,2026-03-10
+Proveedor_203,Mexico,3.42,true,alimentos|ferreteria,2025-02-11
+Proveedor_204,El Salvador,3.29,true,ferreteria|bebidas,2023-11-11
+Proveedor_205,Colombia,3.08,true,electronica|textil,2024-10-02
+Proveedor_206,Colombia,3.45,true,alimentos|textil,2026-01-09
+Proveedor_207,El Salvador,3.8,true,electronica|farmacia,2025-02-06
+Proveedor_208,El Salvador,3.68,true,bebidas|electronica,2024-09-08
+Proveedor_209,Honduras,3.75,true,textil|electronica,2023-11-17
+Proveedor_210,Panama,4.68,true,ferreteria,2024-01-14
+Proveedor_211,Guatemala,4.36,true,alimentos|ferreteria,2023-11-02
+Proveedor_212,USA,4.04,true,ferreteria,2025-10-14
+Proveedor_213,Costa Rica,4.26,true,bebidas|farmacia,2025-10-31
+Proveedor_214,Costa Rica,3.88,true,bebidas|textil,2025-02-04
+Proveedor_215,El Salvador,5,true,alimentos|ferreteria,2026-01-30
+Proveedor_216,Honduras,4.11,true,alimentos|farmacia,2024-05-26
+Proveedor_217,Costa Rica,4.72,true,farmacia|textil,2024-03-03
+Proveedor_218,USA,3.17,false,alimentos|bebidas,2024-07-29
+Proveedor_219,Colombia,4.3,true,ferreteria,2025-03-15
+Proveedor_220,USA,4.27,true,alimentos,2023-11-05
+Proveedor_221,Honduras,4.05,true,electronica,2025-02-05
+Proveedor_222,Honduras,3.36,false,ferreteria|textil,2026-02-24
+Proveedor_223,Mexico,3.35,true,textil|bebidas,2023-09-16
+Proveedor_224,Mexico,3.09,true,ferreteria|farmacia,2025-05-16
+Proveedor_225,Mexico,4.98,true,alimentos|ferreteria,2023-10-16
+Proveedor_226,Honduras,4.79,true,farmacia|textil,2025-06-03
+Proveedor_227,Colombia,4.03,true,farmacia|electronica,2026-04-08
+Proveedor_228,USA,3.46,true,bebidas|textil,2025-02-05
+Proveedor_229,Mexico,3.47,true,electronica|alimentos,2023-09-27
+Proveedor_230,Mexico,4.33,true,farmacia,2024-04-09
+Proveedor_231,Costa Rica,3.37,true,bebidas|alimentos,2026-01-10
+Proveedor_232,Honduras,3.89,true,ferreteria|textil,2024-11-08
+Proveedor_233,Honduras,4.05,true,textil|bebidas,2025-08-11
+Proveedor_234,USA,3.74,true,bebidas,2025-04-23
+Proveedor_235,Costa Rica,3.11,true,alimentos|electronica,2024-01-16
+Proveedor_236,Mexico,4.22,true,farmacia|bebidas,2024-11-11
+Proveedor_237,Costa Rica,4.39,true,textil|bebidas,2025-11-20
+Proveedor_238,Guatemala,4.54,true,textil|electronica,2025-02-13
+Proveedor_239,USA,3.22,true,bebidas|farmacia,2026-01-20
+Proveedor_240,Panama,3.43,true,electronica|farmacia,2024-01-17
+Proveedor_241,Panama,3.39,true,farmacia|electronica,2025-07-25
+Proveedor_242,Costa Rica,3.4,true,bebidas|textil,2025-07-21
+Proveedor_243,USA,3.25,true,ferreteria|alimentos,2024-11-20
+Proveedor_244,Honduras,4.57,true,farmacia|textil,2024-11-18
+Proveedor_245,Panama,3.9,true,ferreteria,2026-01-21
+Proveedor_246,Panama,4.62,true,electronica|ferreteria,2025-06-26
+Proveedor_247,Costa Rica,3.14,true,bebidas|alimentos,2026-02-10
+Proveedor_248,Colombia,4.39,true,bebidas|ferreteria,2024-06-25
+Proveedor_249,Panama,3.22,true,textil|farmacia,2024-06-25
+Proveedor_250,Mexico,4.14,false,textil|alimentos,2025-02-23
+Proveedor_251,Mexico,3.3,true,farmacia|electronica,2024-12-08
+Proveedor_252,Guatemala,3.59,true,farmacia|textil,2024-10-15
+Proveedor_253,USA,3.69,true,bebidas,2024-12-16
+Proveedor_254,Mexico,3.74,true,farmacia|electronica,2024-08-30
+Proveedor_255,Honduras,3.91,true,electronica|bebidas,2024-07-05
+Proveedor_256,Costa Rica,4.75,true,alimentos|ferreteria,2024-03-12
+Proveedor_257,Honduras,3.73,true,farmacia|bebidas,2025-10-28
+Proveedor_258,USA,4.5,true,farmacia|textil,2023-08-30
+Proveedor_259,Panama,3.12,true,bebidas|alimentos,2024-05-16
+Proveedor_260,USA,3.63,true,ferreteria,2024-08-06
+Proveedor_261,USA,4.8,true,farmacia|alimentos,2024-03-24
+Proveedor_262,Colombia,3.08,false,alimentos|ferreteria,2025-01-31
+Proveedor_263,Panama,3.49,true,ferreteria|alimentos,2024-02-01
+Proveedor_264,Colombia,3.39,true,textil|alimentos,2024-05-04
+Proveedor_265,Mexico,4.45,true,ferreteria|farmacia,2025-05-10
+Proveedor_266,El Salvador,4.73,true,alimentos|ferreteria,2024-09-14
+Proveedor_267,Colombia,3.81,true,ferreteria|alimentos,2025-04-10
+Proveedor_268,El Salvador,4.74,true,farmacia|bebidas,2025-03-02
+Proveedor_269,Mexico,3.81,true,alimentos,2025-03-07
+Proveedor_270,Colombia,3.99,true,farmacia|alimentos,2023-12-27
+Proveedor_271,Mexico,3.93,true,electronica|farmacia,2023-10-02
+Proveedor_272,Costa Rica,4.93,true,farmacia|ferreteria,2024-09-12
+Proveedor_273,Colombia,3.4,true,electronica|bebidas,2024-07-09
+Proveedor_274,USA,4.73,false,farmacia|alimentos,2024-04-07
+Proveedor_275,Mexico,3.9,true,electronica|textil,2026-03-14
+Proveedor_276,USA,4.36,true,textil|farmacia,2024-08-04
+Proveedor_277,Honduras,3.63,true,textil|bebidas,2024-03-07
+Proveedor_278,Colombia,4.38,true,alimentos|textil,2024-03-01
+Proveedor_279,Honduras,3.26,true,bebidas|electronica,2024-10-08
+Proveedor_280,Costa Rica,3.28,true,electronica|farmacia,2024-12-26
+Proveedor_281,Mexico,4.81,true,bebidas|textil,2025-03-30
+Proveedor_282,Guatemala,3.84,true,electronica,2023-11-06
+Proveedor_283,Costa Rica,4.32,true,electronica|farmacia,2025-11-08
+Proveedor_284,Honduras,4.37,true,electronica|ferreteria,2024-05-13
+Proveedor_285,Guatemala,3.1,true,bebidas|farmacia,2023-10-15
+Proveedor_286,USA,3.1,true,alimentos|bebidas,2024-08-19
+Proveedor_287,Guatemala,4.95,true,farmacia|ferreteria,2025-12-05
+Proveedor_288,USA,4.17,true,bebidas|textil,2025-11-01
+Proveedor_289,Colombia,3.31,true,electronica|ferreteria,2025-05-30
+Proveedor_290,Costa Rica,4.02,true,ferreteria|farmacia,2024-09-01
+Proveedor_291,Mexico,4.83,true,bebidas|ferreteria,2025-12-31
+Proveedor_292,Mexico,4.48,true,electronica|alimentos,2024-02-24
+Proveedor_293,El Salvador,4.95,true,electronica|alimentos,2024-01-28
+Proveedor_294,USA,3.89,false,electronica|bebidas,2024-07-28
+Proveedor_295,Guatemala,3.83,true,bebidas|ferreteria,2023-08-21
+Proveedor_296,Costa Rica,4.95,false,electronica|ferreteria,2023-12-09
+Proveedor_297,Panama,3.36,false,electronica|bebidas,2024-02-09
+Proveedor_298,Colombia,4.54,false,alimentos|ferreteria,2024-02-08
+Proveedor_299,Guatemala,3.19,true,alimentos,2024-09-19
+Proveedor_300,Colombia,3.54,true,bebidas|electronica,2025-07-05
