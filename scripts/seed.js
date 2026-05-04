@@ -51,10 +51,8 @@ const driver = neo4j.driver(
   { disableLosslessIntegers: true }
 );
 
-const DB_NAME = process.env.NEO4J_DATABASE || 'neo4j';
-
 async function runWrite(cypher, params = {}) {
-  const session = driver.session({ database: DB_NAME });
+  const session = driver.session();
   try { return await session.run(cypher, params); } finally { await session.close(); }
 }
 

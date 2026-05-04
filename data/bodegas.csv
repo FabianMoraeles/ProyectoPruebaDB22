@@ -1,151 +1,151 @@
 nombre,ciudad,pais,capacidad_total,capacidad_disponible,activa
-Bodega_1,San Jose,Costa Rica,15405,15181,true
-Bodega_2,Quetzaltenango,Guatemala,36555,30867,true
-Bodega_3,San Jose,Costa Rica,16677,1971,true
-Bodega_4,Ciudad de Guatemala,Guatemala,6790,4974,true
-Bodega_5,Monterrey,Mexico,46541,27885,true
-Bodega_6,Santa Ana,El Salvador,23014,7849,true
-Bodega_7,San Jose,Costa Rica,7583,3179,true
-Bodega_8,Colon,Panama,33123,18031,true
-Bodega_9,Bogota,Colombia,22020,5555,true
-Bodega_10,San Salvador,El Salvador,23962,9690,true
-Bodega_11,Tegucigalpa,Honduras,13914,10803,true
-Bodega_12,Alajuela,Costa Rica,27936,27372,true
-Bodega_13,Santa Ana,El Salvador,48754,5686,true
-Bodega_14,Houston,USA,25549,5525,false
-Bodega_15,San Jose,Costa Rica,39298,32025,true
-Bodega_16,Tegucigalpa,Honduras,40381,11141,true
-Bodega_17,Escuintla,Guatemala,43399,21129,true
-Bodega_18,Miami,USA,44407,26011,true
-Bodega_19,Quetzaltenango,Guatemala,30323,22711,true
-Bodega_20,Bogota,Colombia,35530,6277,true
-Bodega_21,Los Angeles,USA,46566,5909,true
-Bodega_22,Medellin,Colombia,23766,10040,true
-Bodega_23,Santa Ana,El Salvador,31175,11492,true
-Bodega_24,Alajuela,Costa Rica,42917,39674,true
-Bodega_25,Los Angeles,USA,25704,19916,true
-Bodega_26,San Pedro Sula,Honduras,25717,23332,true
-Bodega_27,Alajuela,Costa Rica,34396,4121,true
-Bodega_28,Alajuela,Costa Rica,45559,16324,true
-Bodega_29,Colon,Panama,5370,4387,true
-Bodega_30,Escuintla,Guatemala,33070,15416,true
-Bodega_31,Colon,Panama,49167,19095,true
-Bodega_32,Panama City,Panama,23676,7649,true
-Bodega_33,Los Angeles,USA,29179,23224,false
-Bodega_34,San Jose,Costa Rica,37460,29743,true
-Bodega_35,Miami,USA,26181,2102,true
-Bodega_36,Cali,Colombia,14575,10681,true
-Bodega_37,Ciudad de Guatemala,Guatemala,20918,13256,false
-Bodega_38,Quetzaltenango,Guatemala,42137,15667,true
-Bodega_39,San Salvador,El Salvador,24293,22240,true
-Bodega_40,San Pedro Sula,Honduras,47293,37115,true
-Bodega_41,Houston,USA,37039,30267,true
-Bodega_42,Colon,Panama,38497,33558,true
-Bodega_43,Tegucigalpa,Honduras,19524,4515,true
-Bodega_44,Antigua,Guatemala,8530,171,true
-Bodega_45,Alajuela,Costa Rica,12273,7010,true
-Bodega_46,Bogota,Colombia,34145,21388,true
-Bodega_47,Los Angeles,USA,36200,4562,true
-Bodega_48,Escuintla,Guatemala,12366,5654,true
-Bodega_49,San Salvador,El Salvador,28317,20260,true
-Bodega_50,San Pedro Sula,Honduras,25173,5301,true
-Bodega_51,San Salvador,El Salvador,22817,16395,true
-Bodega_52,San Jose,Costa Rica,22040,3326,true
-Bodega_53,Alajuela,Costa Rica,24362,16616,true
-Bodega_54,Los Angeles,USA,32723,5573,true
-Bodega_55,San Jose,Costa Rica,18689,4207,true
-Bodega_56,Houston,USA,10499,5808,true
-Bodega_57,CDMX,Mexico,14864,8709,true
-Bodega_58,Los Angeles,USA,10340,7791,true
-Bodega_59,Alajuela,Costa Rica,14084,9333,false
-Bodega_60,Quetzaltenango,Guatemala,48291,10032,true
-Bodega_61,Colon,Panama,17348,8871,true
-Bodega_62,Colon,Panama,33206,24289,false
-Bodega_63,Los Angeles,USA,18358,7161,true
-Bodega_64,Colon,Panama,38063,16097,true
-Bodega_65,Puebla,Mexico,33430,17121,true
-Bodega_66,Los Angeles,USA,32030,10036,true
-Bodega_67,Escuintla,Guatemala,6560,5656,false
-Bodega_68,San Salvador,El Salvador,13339,7915,true
-Bodega_69,Puebla,Mexico,39080,12038,true
-Bodega_70,Guadalajara,Mexico,8428,7829,true
-Bodega_71,San Jose,Costa Rica,11970,7434,true
-Bodega_72,San Salvador,El Salvador,10134,4027,true
-Bodega_73,San Salvador,El Salvador,13536,4649,true
-Bodega_74,Houston,USA,22691,4327,true
-Bodega_75,Santa Ana,El Salvador,38165,10044,true
-Bodega_76,San Pedro Sula,Honduras,13571,8890,true
-Bodega_77,Medellin,Colombia,33568,29834,true
-Bodega_78,Houston,USA,7195,5322,true
-Bodega_79,Monterrey,Mexico,28949,6806,true
-Bodega_80,Houston,USA,15432,10224,false
-Bodega_81,San Salvador,El Salvador,20305,12192,true
-Bodega_82,Tegucigalpa,Honduras,48954,42532,true
-Bodega_83,Tegucigalpa,Honduras,30176,1255,true
-Bodega_84,Colon,Panama,7215,1505,true
-Bodega_85,San Jose,Costa Rica,19959,6632,true
-Bodega_86,Tegucigalpa,Honduras,36945,34605,true
-Bodega_87,Quetzaltenango,Guatemala,32600,27235,true
-Bodega_88,San Salvador,El Salvador,49828,3396,true
-Bodega_89,Tegucigalpa,Honduras,28618,18447,true
-Bodega_90,Tegucigalpa,Honduras,43782,8759,false
-Bodega_91,Miami,USA,31711,21868,false
-Bodega_92,Quetzaltenango,Guatemala,30384,27742,true
-Bodega_93,Medellin,Colombia,35459,18713,true
-Bodega_94,Colon,Panama,36980,24780,true
-Bodega_95,Ciudad de Guatemala,Guatemala,28337,19339,true
-Bodega_96,Cali,Colombia,17234,14608,true
-Bodega_97,San Jose,Costa Rica,17612,11025,true
-Bodega_98,Houston,USA,17465,14078,true
-Bodega_99,San Pedro Sula,Honduras,28816,6742,false
-Bodega_100,Panama City,Panama,27888,16279,true
-Bodega_101,Los Angeles,USA,16393,12195,true
-Bodega_102,Miami,USA,15705,3367,true
-Bodega_103,Bogota,Colombia,36825,5546,true
-Bodega_104,Cali,Colombia,41738,30664,true
-Bodega_105,Antigua,Guatemala,23745,6657,true
-Bodega_106,Santa Ana,El Salvador,29642,19640,true
-Bodega_107,Colon,Panama,31880,11469,false
-Bodega_108,Bogota,Colombia,47545,1931,false
-Bodega_109,Quetzaltenango,Guatemala,39980,2539,true
-Bodega_110,Miami,USA,46283,3466,true
-Bodega_111,Colon,Panama,44661,33552,true
-Bodega_112,Medellin,Colombia,41732,36222,true
-Bodega_113,San Jose,Costa Rica,18407,17404,true
-Bodega_114,Bogota,Colombia,40772,22437,false
-Bodega_115,Escuintla,Guatemala,32815,19181,true
-Bodega_116,Colon,Panama,11204,10068,false
-Bodega_117,Alajuela,Costa Rica,42435,30410,true
-Bodega_118,San Jose,Costa Rica,36667,9060,false
-Bodega_119,Bogota,Colombia,17688,17183,true
-Bodega_120,Puebla,Mexico,16380,6509,true
-Bodega_121,Colon,Panama,43595,20100,true
-Bodega_122,Santa Ana,El Salvador,23989,10779,true
-Bodega_123,Antigua,Guatemala,29041,13580,true
-Bodega_124,Colon,Panama,32792,23088,true
-Bodega_125,Colon,Panama,40406,23998,true
-Bodega_126,Colon,Panama,19962,12478,true
-Bodega_127,Miami,USA,17219,11483,true
-Bodega_128,Santa Ana,El Salvador,28606,226,true
-Bodega_129,Santa Ana,El Salvador,36400,24954,true
-Bodega_130,Ciudad de Guatemala,Guatemala,33396,30938,true
-Bodega_131,Miami,USA,38548,27179,true
-Bodega_132,Monterrey,Mexico,29385,20293,true
-Bodega_133,Panama City,Panama,15082,3877,true
-Bodega_134,Alajuela,Costa Rica,37368,37312,true
-Bodega_135,Escuintla,Guatemala,19562,2102,true
-Bodega_136,San Pedro Sula,Honduras,21446,15429,true
-Bodega_137,Colon,Panama,12177,2531,true
-Bodega_138,Tegucigalpa,Honduras,49010,38784,true
-Bodega_139,Santa Ana,El Salvador,31114,28813,true
-Bodega_140,Tegucigalpa,Honduras,20156,6612,true
-Bodega_141,Alajuela,Costa Rica,49964,18301,true
-Bodega_142,Colon,Panama,40244,27079,true
-Bodega_143,Ciudad de Guatemala,Guatemala,36491,24699,true
-Bodega_144,Houston,USA,34044,32426,true
-Bodega_145,San Salvador,El Salvador,17242,5408,true
-Bodega_146,Cali,Colombia,24498,15393,true
-Bodega_147,Medellin,Colombia,44389,30646,true
-Bodega_148,Colon,Panama,33645,16342,true
-Bodega_149,Monterrey,Mexico,30174,4223,true
-Bodega_150,San Pedro Sula,Honduras,26929,20709,false
+Bodega_1,Puebla,Mexico,14851,13367,true
+Bodega_2,Tegucigalpa,Honduras,45063,17986,true
+Bodega_3,Santa Ana,El Salvador,48616,6742,true
+Bodega_4,Alajuela,Costa Rica,6937,6371,true
+Bodega_5,Santa Ana,El Salvador,33903,31731,true
+Bodega_6,Quetzaltenango,Guatemala,19694,13046,false
+Bodega_7,Alajuela,Costa Rica,9432,944,true
+Bodega_8,Monterrey,Mexico,31327,13454,true
+Bodega_9,Medellin,Colombia,18169,8543,true
+Bodega_10,San Pedro Sula,Honduras,41030,31894,true
+Bodega_11,Medellin,Colombia,10317,674,true
+Bodega_12,Guadalajara,Mexico,40481,35330,true
+Bodega_13,Escuintla,Guatemala,17678,5491,true
+Bodega_14,Miami,USA,45941,13703,false
+Bodega_15,San Jose,Costa Rica,28242,3594,true
+Bodega_16,Quetzaltenango,Guatemala,31478,28679,true
+Bodega_17,Monterrey,Mexico,47826,31773,true
+Bodega_18,Alajuela,Costa Rica,9293,4783,true
+Bodega_19,Quetzaltenango,Guatemala,47057,19871,true
+Bodega_20,Colon,Panama,37681,5585,true
+Bodega_21,Santa Ana,El Salvador,27683,26613,true
+Bodega_22,San Salvador,El Salvador,22936,3492,true
+Bodega_23,Miami,USA,26391,17441,true
+Bodega_24,San Salvador,El Salvador,41714,35629,true
+Bodega_25,Miami,USA,8991,5220,true
+Bodega_26,Bogota,Colombia,20835,20001,true
+Bodega_27,Colon,Panama,48378,6129,true
+Bodega_28,Panama City,Panama,39910,4537,true
+Bodega_29,San Salvador,El Salvador,18648,1132,true
+Bodega_30,San Pedro Sula,Honduras,15776,3443,true
+Bodega_31,San Pedro Sula,Honduras,22862,11104,false
+Bodega_32,Tegucigalpa,Honduras,16516,15039,true
+Bodega_33,Alajuela,Costa Rica,45064,28632,true
+Bodega_34,Medellin,Colombia,7170,5544,true
+Bodega_35,Houston,USA,37906,5576,true
+Bodega_36,San Pedro Sula,Honduras,6172,3020,true
+Bodega_37,Ciudad de Guatemala,Guatemala,32718,14209,true
+Bodega_38,Tegucigalpa,Honduras,42159,12187,true
+Bodega_39,Colon,Panama,37675,7783,true
+Bodega_40,San Jose,Costa Rica,42988,8597,true
+Bodega_41,Quetzaltenango,Guatemala,42913,13500,true
+Bodega_42,Tegucigalpa,Honduras,35924,28206,true
+Bodega_43,San Jose,Costa Rica,27597,15550,true
+Bodega_44,Panama City,Panama,43680,41674,true
+Bodega_45,Alajuela,Costa Rica,38348,37302,true
+Bodega_46,Colon,Panama,34982,11657,true
+Bodega_47,Colon,Panama,12981,3664,true
+Bodega_48,Escuintla,Guatemala,33319,2805,true
+Bodega_49,Antigua,Guatemala,43446,268,false
+Bodega_50,Escuintla,Guatemala,5400,1758,true
+Bodega_51,Santa Ana,El Salvador,5813,4373,true
+Bodega_52,Miami,USA,7531,6382,true
+Bodega_53,Antigua,Guatemala,6790,4191,true
+Bodega_54,Guadalajara,Mexico,27880,27385,true
+Bodega_55,Medellin,Colombia,38659,37894,false
+Bodega_56,Medellin,Colombia,25006,5714,true
+Bodega_57,Tegucigalpa,Honduras,39423,18492,false
+Bodega_58,Panama City,Panama,17315,7755,true
+Bodega_59,San Jose,Costa Rica,8140,6838,true
+Bodega_60,Monterrey,Mexico,36450,4089,true
+Bodega_61,San Salvador,El Salvador,29181,14737,true
+Bodega_62,Tegucigalpa,Honduras,11490,722,true
+Bodega_63,Colon,Panama,14573,11621,true
+Bodega_64,Alajuela,Costa Rica,33587,30120,true
+Bodega_65,Santa Ana,El Salvador,48005,28678,true
+Bodega_66,Houston,USA,34403,3917,true
+Bodega_67,Panama City,Panama,34850,18839,true
+Bodega_68,Panama City,Panama,47928,1643,true
+Bodega_69,San Jose,Costa Rica,29755,21700,false
+Bodega_70,Santa Ana,El Salvador,11452,1340,true
+Bodega_71,Medellin,Colombia,33169,22227,true
+Bodega_72,Los Angeles,USA,6553,2713,true
+Bodega_73,Panama City,Panama,28918,6794,true
+Bodega_74,Panama City,Panama,6765,4976,true
+Bodega_75,Santa Ana,El Salvador,22143,11318,true
+Bodega_76,Santa Ana,El Salvador,46001,17365,true
+Bodega_77,Panama City,Panama,41116,39237,true
+Bodega_78,Panama City,Panama,40073,28862,false
+Bodega_79,Tegucigalpa,Honduras,40381,39832,true
+Bodega_80,Miami,USA,13071,6467,true
+Bodega_81,Medellin,Colombia,46800,16054,true
+Bodega_82,Puebla,Mexico,42001,23249,true
+Bodega_83,San Pedro Sula,Honduras,22142,16454,true
+Bodega_84,Miami,USA,26077,20306,true
+Bodega_85,CDMX,Mexico,5858,2639,true
+Bodega_86,Escuintla,Guatemala,23852,8754,true
+Bodega_87,Tegucigalpa,Honduras,16963,12505,true
+Bodega_88,Panama City,Panama,44190,15742,true
+Bodega_89,Panama City,Panama,12333,148,true
+Bodega_90,Puebla,Mexico,43037,13414,true
+Bodega_91,Quetzaltenango,Guatemala,39280,17591,true
+Bodega_92,Santa Ana,El Salvador,10866,10034,true
+Bodega_93,San Jose,Costa Rica,28439,10618,true
+Bodega_94,Quetzaltenango,Guatemala,24292,12314,true
+Bodega_95,CDMX,Mexico,31732,16114,true
+Bodega_96,Escuintla,Guatemala,19941,17498,true
+Bodega_97,San Jose,Costa Rica,45265,21954,true
+Bodega_98,Santa Ana,El Salvador,42179,39111,true
+Bodega_99,San Pedro Sula,Honduras,37609,14050,true
+Bodega_100,Santa Ana,El Salvador,39877,17139,true
+Bodega_101,Panama City,Panama,27604,18394,true
+Bodega_102,San Jose,Costa Rica,8652,6216,true
+Bodega_103,Miami,USA,13862,9870,true
+Bodega_104,Antigua,Guatemala,21634,9771,true
+Bodega_105,Houston,USA,15357,8031,true
+Bodega_106,Colon,Panama,14693,8744,true
+Bodega_107,San Salvador,El Salvador,20482,18027,true
+Bodega_108,San Jose,Costa Rica,26466,916,true
+Bodega_109,CDMX,Mexico,21425,17530,true
+Bodega_110,Quetzaltenango,Guatemala,12571,10206,true
+Bodega_111,Puebla,Mexico,25964,25467,true
+Bodega_112,Quetzaltenango,Guatemala,13277,717,true
+Bodega_113,San Jose,Costa Rica,14156,3101,true
+Bodega_114,San Pedro Sula,Honduras,21780,12322,true
+Bodega_115,Ciudad de Guatemala,Guatemala,43326,22699,true
+Bodega_116,Houston,USA,23361,20554,false
+Bodega_117,Colon,Panama,44978,44895,true
+Bodega_118,Bogota,Colombia,48528,27564,true
+Bodega_119,Tegucigalpa,Honduras,9659,1878,true
+Bodega_120,San Pedro Sula,Honduras,17968,6218,true
+Bodega_121,Alajuela,Costa Rica,23881,3809,true
+Bodega_122,Guadalajara,Mexico,24555,5459,true
+Bodega_123,Alajuela,Costa Rica,35057,9267,true
+Bodega_124,Ciudad de Guatemala,Guatemala,27853,27594,false
+Bodega_125,Alajuela,Costa Rica,20757,16874,true
+Bodega_126,Miami,USA,39732,13244,true
+Bodega_127,Escuintla,Guatemala,38295,139,true
+Bodega_128,Escuintla,Guatemala,10969,10911,true
+Bodega_129,Antigua,Guatemala,45512,29491,true
+Bodega_130,Escuintla,Guatemala,24434,6627,true
+Bodega_131,Los Angeles,USA,36290,266,true
+Bodega_132,Bogota,Colombia,29359,17446,true
+Bodega_133,Miami,USA,17770,3133,true
+Bodega_134,Cali,Colombia,34370,12365,true
+Bodega_135,Ciudad de Guatemala,Guatemala,27141,20544,true
+Bodega_136,Quetzaltenango,Guatemala,45543,21084,true
+Bodega_137,Alajuela,Costa Rica,36783,6588,true
+Bodega_138,Colon,Panama,11021,4065,true
+Bodega_139,Houston,USA,27067,10676,true
+Bodega_140,Colon,Panama,20045,5201,false
+Bodega_141,Bogota,Colombia,21835,19761,true
+Bodega_142,San Jose,Costa Rica,48223,46971,true
+Bodega_143,Puebla,Mexico,39051,10049,true
+Bodega_144,Miami,USA,42695,13031,true
+Bodega_145,Bogota,Colombia,34809,30721,true
+Bodega_146,Antigua,Guatemala,27704,27483,true
+Bodega_147,Tegucigalpa,Honduras,35201,17525,true
+Bodega_148,Los Angeles,USA,23490,23122,true
+Bodega_149,Houston,USA,41207,21214,true
+Bodega_150,Alajuela,Costa Rica,41486,15832,true

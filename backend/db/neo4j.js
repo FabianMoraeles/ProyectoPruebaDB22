@@ -16,10 +16,9 @@ async function verifyConnectivity() {
   }
 }
 
-const DB_NAME = process.env.NEO4J_DATABASE || 'neo4j';
-
 function getSession(database) {
-  return driver.session({ database: database || DB_NAME });
+  if (database) return driver.session({ database });
+  return driver.session();
 }
 
 async function run(cypher, params = {}) {

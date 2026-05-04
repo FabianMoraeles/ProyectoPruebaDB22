@@ -1,501 +1,501 @@
 nombre,segmento,ciudad,credito_aprobado,limite_credito,fecha_alta
-Cliente_1,mayorista,Escuintla,true,19317.63,2024-03-03
-Cliente_2,mayorista,Colon,false,11193.67,2022-06-30
-Cliente_3,minorista,Alajuela,true,21094.31,2024-06-18
-Cliente_4,corporativo,Medellin,true,5185.56,2024-06-23
-Cliente_5,corporativo,San Salvador,true,49284.04,2023-10-17
-Cliente_6,gobierno,Santa Ana,false,32267.59,2024-07-01
-Cliente_7,gobierno,Panama City,false,21912.16,2024-04-20
-Cliente_8,corporativo,San Jose,true,35673.59,2022-05-03
-Cliente_9,gobierno,Tegucigalpa,false,11567.26,2023-05-04
-Cliente_10,corporativo,Bogota,true,25173.21,2025-07-17
-Cliente_11,corporativo,Colon,true,29185.59,2025-06-17
-Cliente_12,corporativo,Panama City,false,28967.28,2023-02-12
-Cliente_13,gobierno,Los Angeles,true,9201.5,2024-04-26
-Cliente_14,minorista,Ciudad de Guatemala,true,7245.02,2025-11-24
-Cliente_15,minorista,Miami,true,11105.32,2024-10-12
-Cliente_16,minorista,San Salvador,true,22858.5,2022-05-03
-Cliente_17,minorista,San Pedro Sula,true,10615.86,2022-11-03
-Cliente_18,gobierno,Quetzaltenango,true,42257.99,2023-02-11
-Cliente_19,minorista,Bogota,false,22738.57,2025-07-04
-Cliente_20,corporativo,Los Angeles,false,32485.39,2023-07-12
-Cliente_21,gobierno,Alajuela,true,22703.49,2022-05-29
-Cliente_22,gobierno,San Salvador,true,44841.66,2026-03-25
-Cliente_23,mayorista,Houston,true,17868.85,2024-09-13
-Cliente_24,minorista,Santa Ana,true,28765.18,2025-09-06
-Cliente_25,minorista,Escuintla,true,5111.3,2023-01-12
-Cliente_26,minorista,Guadalajara,true,27956.13,2025-09-29
-Cliente_27,minorista,Guadalajara,true,35581.74,2023-12-03
-Cliente_28,corporativo,Houston,true,40929.7,2023-06-06
-Cliente_29,gobierno,Bogota,true,43600.27,2025-07-07
-Cliente_30,gobierno,Miami,true,7210.88,2026-02-08
-Cliente_31,mayorista,San Jose,false,39957.29,2025-01-28
-Cliente_32,gobierno,Quetzaltenango,false,30400.53,2022-09-19
-Cliente_33,gobierno,San Pedro Sula,false,46559.17,2024-03-15
-Cliente_34,minorista,Monterrey,true,36979.58,2023-05-14
-Cliente_35,gobierno,Guadalajara,true,36171.73,2024-07-27
-Cliente_36,corporativo,Quetzaltenango,false,14172.95,2024-12-19
-Cliente_37,corporativo,San Jose,true,2066.03,2024-11-07
-Cliente_38,corporativo,Monterrey,true,19276.8,2025-11-16
-Cliente_39,gobierno,San Salvador,false,8500.96,2023-03-02
-Cliente_40,corporativo,Quetzaltenango,true,36269.93,2022-03-28
-Cliente_41,minorista,Santa Ana,true,47626.68,2024-02-09
-Cliente_42,gobierno,Tegucigalpa,true,49299.25,2022-05-18
-Cliente_43,mayorista,San Salvador,true,30803.35,2023-05-25
-Cliente_44,gobierno,Cali,false,45479.39,2024-04-07
-Cliente_45,minorista,Alajuela,true,21686.54,2024-07-07
-Cliente_46,mayorista,Monterrey,false,39311.31,2024-07-11
-Cliente_47,minorista,Colon,false,31468.42,2023-07-16
-Cliente_48,minorista,Los Angeles,true,7215.4,2023-10-09
-Cliente_49,corporativo,San Jose,true,38765.49,2022-04-11
-Cliente_50,gobierno,Antigua,true,19603.69,2024-08-17
-Cliente_51,minorista,San Jose,true,46687.39,2022-12-02
-Cliente_52,minorista,Colon,true,19493.9,2022-03-20
-Cliente_53,minorista,Colon,true,36400.79,2025-08-19
-Cliente_54,minorista,Alajuela,true,14998.63,2023-07-21
-Cliente_55,mayorista,Cali,true,33709.36,2024-06-27
-Cliente_56,mayorista,Tegucigalpa,true,49226.37,2024-09-06
-Cliente_57,mayorista,Houston,true,20788.84,2023-06-27
-Cliente_58,gobierno,San Jose,false,40563.84,2024-10-26
-Cliente_59,corporativo,Santa Ana,true,28235.94,2025-06-08
-Cliente_60,gobierno,San Jose,true,48626.67,2024-08-27
-Cliente_61,minorista,Tegucigalpa,true,11216.35,2026-03-15
-Cliente_62,corporativo,Colon,true,4896.74,2024-12-19
-Cliente_63,mayorista,Houston,false,32251.75,2023-11-23
-Cliente_64,minorista,Santa Ana,true,31818.28,2024-07-04
-Cliente_65,mayorista,Colon,false,50084.22,2024-02-15
-Cliente_66,gobierno,Los Angeles,true,3353.6,2023-03-08
-Cliente_67,mayorista,Houston,true,42485.42,2023-02-02
-Cliente_68,minorista,Los Angeles,true,50792.08,2025-04-24
-Cliente_69,gobierno,Colon,true,7809.66,2023-09-16
-Cliente_70,mayorista,Puebla,true,17460.4,2023-03-29
-Cliente_71,gobierno,San Pedro Sula,true,15700.74,2023-12-04
-Cliente_72,mayorista,San Pedro Sula,true,13052.03,2024-11-19
-Cliente_73,mayorista,Colon,true,19226.8,2022-11-05
-Cliente_74,gobierno,San Salvador,false,13729.9,2023-07-04
-Cliente_75,gobierno,San Pedro Sula,true,49012.62,2025-08-04
-Cliente_76,gobierno,Medellin,false,46071.47,2024-07-26
-Cliente_77,mayorista,Puebla,true,14520.01,2024-04-11
-Cliente_78,gobierno,San Jose,true,36325.84,2024-10-08
-Cliente_79,gobierno,Cali,true,48378.42,2026-04-10
-Cliente_80,corporativo,San Jose,true,40949.7,2023-09-02
-Cliente_81,gobierno,Colon,true,23422.09,2024-07-05
-Cliente_82,gobierno,San Salvador,false,13509.84,2023-02-19
-Cliente_83,corporativo,San Jose,false,41255.49,2025-04-09
-Cliente_84,mayorista,Los Angeles,true,26324.48,2024-06-27
-Cliente_85,gobierno,Bogota,true,17211.08,2023-10-02
-Cliente_86,gobierno,Bogota,true,47172.16,2024-01-28
-Cliente_87,gobierno,San Pedro Sula,true,24812.02,2025-11-18
-Cliente_88,gobierno,San Pedro Sula,true,18471.5,2025-05-09
-Cliente_89,mayorista,Alajuela,true,8088.47,2022-09-20
-Cliente_90,gobierno,Panama City,false,35605.02,2023-02-09
-Cliente_91,mayorista,Medellin,true,24411.01,2025-06-14
-Cliente_92,gobierno,San Pedro Sula,false,12172,2025-08-31
-Cliente_93,minorista,San Salvador,false,43990.28,2026-03-14
-Cliente_94,minorista,San Jose,false,36644.55,2024-05-02
-Cliente_95,minorista,Alajuela,true,22728.52,2022-10-26
-Cliente_96,gobierno,Miami,true,46722.44,2026-01-17
-Cliente_97,corporativo,Santa Ana,true,5270.78,2023-02-28
-Cliente_98,minorista,San Pedro Sula,true,22560.69,2026-02-08
-Cliente_99,corporativo,Escuintla,false,14867.96,2023-01-06
-Cliente_100,mayorista,Miami,true,1411.79,2024-03-01
-Cliente_101,corporativo,Alajuela,true,14782.11,2025-02-24
-Cliente_102,mayorista,Bogota,false,43844.82,2025-06-10
-Cliente_103,gobierno,Quetzaltenango,false,47594.91,2024-10-25
-Cliente_104,minorista,Puebla,true,8977.37,2025-01-23
-Cliente_105,gobierno,Escuintla,true,16897.44,2022-10-20
-Cliente_106,mayorista,Escuintla,true,16538.27,2025-09-15
-Cliente_107,mayorista,Colon,true,12674.82,2022-03-18
-Cliente_108,gobierno,San Salvador,true,10108.29,2024-12-28
-Cliente_109,mayorista,Puebla,true,25121.15,2026-03-27
-Cliente_110,mayorista,Colon,true,18786.86,2024-12-21
-Cliente_111,gobierno,Alajuela,true,40293.68,2024-10-01
-Cliente_112,minorista,Ciudad de Guatemala,true,40134,2026-02-11
-Cliente_113,corporativo,San Salvador,true,16013.64,2024-05-06
-Cliente_114,corporativo,San Salvador,true,44568.49,2022-03-24
-Cliente_115,corporativo,Puebla,true,40844.95,2022-06-08
-Cliente_116,minorista,Miami,true,45262.64,2025-10-22
-Cliente_117,corporativo,Santa Ana,true,50407.4,2023-04-07
-Cliente_118,gobierno,Guadalajara,false,3196.67,2025-04-07
-Cliente_119,gobierno,San Salvador,true,36275.82,2024-12-05
-Cliente_120,corporativo,Panama City,true,4393.27,2022-12-25
-Cliente_121,mayorista,San Salvador,false,2927.13,2024-10-16
-Cliente_122,gobierno,Ciudad de Guatemala,false,30041.43,2023-03-22
-Cliente_123,corporativo,San Salvador,false,45697.68,2024-03-05
-Cliente_124,minorista,Monterrey,true,7117.59,2026-03-10
-Cliente_125,minorista,Houston,true,39561.5,2024-04-29
-Cliente_126,mayorista,Santa Ana,true,15320.18,2025-02-11
-Cliente_127,mayorista,Colon,false,48563.47,2023-02-28
-Cliente_128,minorista,Miami,true,17193.4,2025-05-19
-Cliente_129,mayorista,Miami,true,32941.87,2024-07-01
-Cliente_130,gobierno,Panama City,true,44069.81,2023-03-10
-Cliente_131,gobierno,Puebla,true,39927.92,2025-05-21
-Cliente_132,corporativo,Bogota,true,49164.97,2023-08-03
-Cliente_133,mayorista,Monterrey,true,10535.47,2025-02-15
-Cliente_134,minorista,Santa Ana,true,30997.8,2025-12-25
-Cliente_135,gobierno,Alajuela,true,4911.77,2022-11-29
-Cliente_136,gobierno,Panama City,false,16744.28,2023-03-18
-Cliente_137,minorista,Medellin,true,13011.95,2025-09-20
-Cliente_138,gobierno,Miami,true,39255.96,2024-11-11
-Cliente_139,gobierno,Colon,false,1046.39,2025-01-15
-Cliente_140,corporativo,Miami,false,23359.83,2023-11-18
-Cliente_141,corporativo,Panama City,true,37576.43,2023-03-27
-Cliente_142,mayorista,Bogota,true,7432.2,2023-09-08
-Cliente_143,mayorista,San Pedro Sula,true,16655.12,2022-08-12
-Cliente_144,corporativo,Ciudad de Guatemala,false,10676.61,2022-04-16
-Cliente_145,mayorista,Santa Ana,true,5705.69,2022-08-15
-Cliente_146,minorista,Los Angeles,false,17031.05,2023-10-17
-Cliente_147,minorista,Alajuela,false,23777.8,2022-05-11
-Cliente_148,minorista,Panama City,false,23176.47,2025-04-24
-Cliente_149,minorista,Tegucigalpa,false,50806.03,2022-12-13
-Cliente_150,corporativo,Antigua,false,39934.8,2026-02-09
-Cliente_151,corporativo,San Pedro Sula,true,43427.96,2026-01-17
-Cliente_152,gobierno,Alajuela,true,48194.63,2024-02-18
-Cliente_153,gobierno,Alajuela,true,9494.69,2023-06-18
-Cliente_154,mayorista,Los Angeles,false,34461.21,2023-01-07
-Cliente_155,gobierno,Puebla,true,1758.31,2025-02-13
-Cliente_156,mayorista,San Salvador,false,2324.71,2022-07-26
-Cliente_157,minorista,CDMX,true,39826.31,2024-03-20
-Cliente_158,gobierno,Escuintla,true,18320.2,2025-08-17
-Cliente_159,gobierno,Los Angeles,true,37291.88,2023-02-12
-Cliente_160,gobierno,Los Angeles,true,30846.83,2022-06-02
-Cliente_161,minorista,Los Angeles,true,23139.11,2022-03-27
-Cliente_162,corporativo,Guadalajara,true,36017.35,2023-03-01
-Cliente_163,gobierno,Alajuela,true,37725.82,2023-12-03
-Cliente_164,minorista,Colon,true,30967.93,2024-09-25
-Cliente_165,corporativo,Monterrey,true,6934.67,2023-11-10
-Cliente_166,minorista,Cali,true,35984.97,2022-11-21
-Cliente_167,corporativo,Houston,false,35482.53,2022-12-15
-Cliente_168,corporativo,Santa Ana,true,32113.78,2022-07-27
-Cliente_169,minorista,Tegucigalpa,true,46116.58,2025-10-22
-Cliente_170,gobierno,Houston,false,8956.55,2023-08-10
-Cliente_171,mayorista,Alajuela,true,44814.05,2022-06-25
-Cliente_172,minorista,Alajuela,true,10335.39,2025-05-01
-Cliente_173,gobierno,Los Angeles,false,45439.22,2025-10-15
-Cliente_174,corporativo,San Salvador,true,5845.53,2023-06-14
-Cliente_175,corporativo,Miami,true,24219.75,2025-02-13
-Cliente_176,minorista,San Pedro Sula,false,48083.06,2023-04-10
-Cliente_177,mayorista,Houston,true,24153.05,2023-06-07
-Cliente_178,mayorista,San Salvador,true,21713.25,2024-04-17
-Cliente_179,gobierno,Cali,true,24920.02,2023-08-01
-Cliente_180,minorista,Colon,true,4801.52,2022-07-01
-Cliente_181,minorista,Colon,true,43821.1,2026-01-27
-Cliente_182,gobierno,Quetzaltenango,false,41054.46,2023-05-31
-Cliente_183,minorista,Panama City,true,27147.4,2023-10-24
-Cliente_184,minorista,Los Angeles,true,28411.41,2024-08-06
-Cliente_185,gobierno,Panama City,false,13434.47,2022-06-02
-Cliente_186,gobierno,San Salvador,true,33757.09,2024-03-13
-Cliente_187,minorista,Escuintla,false,10928.96,2024-06-25
-Cliente_188,minorista,Monterrey,false,39295.14,2024-03-01
-Cliente_189,minorista,San Pedro Sula,true,1898.51,2022-12-07
-Cliente_190,gobierno,Miami,true,31314.83,2023-10-29
-Cliente_191,gobierno,San Pedro Sula,true,6226.29,2022-08-26
-Cliente_192,gobierno,Colon,false,8549.44,2022-06-17
-Cliente_193,minorista,Antigua,true,7345.86,2023-12-26
-Cliente_194,corporativo,Monterrey,true,48154.36,2025-02-12
-Cliente_195,gobierno,Panama City,false,26415.24,2022-05-28
-Cliente_196,gobierno,San Salvador,true,29637.91,2023-01-01
-Cliente_197,corporativo,Santa Ana,false,12771.03,2022-06-17
-Cliente_198,mayorista,Alajuela,true,17532.9,2026-03-23
-Cliente_199,corporativo,San Salvador,true,13704.59,2024-03-16
-Cliente_200,minorista,Alajuela,true,45905.32,2022-05-12
-Cliente_201,minorista,Santa Ana,true,14101.75,2025-02-14
-Cliente_202,gobierno,Alajuela,false,39207.22,2024-04-28
-Cliente_203,minorista,Bogota,true,19589,2026-04-01
-Cliente_204,gobierno,Los Angeles,false,36853.94,2024-06-14
-Cliente_205,mayorista,Panama City,false,9537.92,2024-08-20
-Cliente_206,corporativo,Houston,true,44357.79,2025-07-27
-Cliente_207,gobierno,Colon,true,10126.01,2022-05-24
-Cliente_208,mayorista,Bogota,false,12349.68,2023-11-03
-Cliente_209,corporativo,Bogota,true,38481.3,2022-03-30
-Cliente_210,minorista,Tegucigalpa,true,32424.89,2023-01-17
-Cliente_211,corporativo,Miami,true,40327.18,2023-03-18
-Cliente_212,minorista,Alajuela,false,27138.05,2025-10-14
-Cliente_213,minorista,Panama City,true,1535.55,2025-03-24
-Cliente_214,minorista,Panama City,true,13462.52,2023-09-20
-Cliente_215,gobierno,San Salvador,true,37419.98,2025-10-19
-Cliente_216,minorista,Santa Ana,true,22818.26,2025-07-06
-Cliente_217,mayorista,Tegucigalpa,true,26553.83,2024-11-15
-Cliente_218,gobierno,Santa Ana,true,6081.47,2023-11-05
-Cliente_219,gobierno,Houston,true,20758.44,2024-07-07
-Cliente_220,minorista,San Salvador,false,31581.75,2023-03-01
-Cliente_221,gobierno,Cali,false,23513.28,2022-10-27
-Cliente_222,gobierno,Panama City,true,42705.08,2022-04-22
-Cliente_223,gobierno,San Salvador,false,10142.01,2023-11-01
-Cliente_224,corporativo,Miami,true,1385.48,2023-01-16
-Cliente_225,minorista,Colon,true,42483.8,2026-01-22
-Cliente_226,mayorista,Antigua,false,41391.12,2025-06-07
-Cliente_227,gobierno,Panama City,true,17581.05,2022-07-06
-Cliente_228,mayorista,Bogota,true,16350.14,2026-03-03
-Cliente_229,corporativo,Tegucigalpa,false,6640.7,2025-05-01
-Cliente_230,corporativo,Colon,false,37312.72,2025-08-14
-Cliente_231,mayorista,San Pedro Sula,false,7109.53,2025-09-15
-Cliente_232,corporativo,Alajuela,false,42048.42,2024-09-21
-Cliente_233,minorista,Monterrey,true,40742.99,2022-09-24
-Cliente_234,minorista,San Jose,true,9475.1,2022-09-02
-Cliente_235,gobierno,Alajuela,false,8311.03,2024-04-13
-Cliente_236,corporativo,San Salvador,true,6088.24,2022-05-03
-Cliente_237,mayorista,Panama City,true,40959.84,2025-11-07
-Cliente_238,mayorista,Houston,true,47663.69,2022-11-25
-Cliente_239,mayorista,Houston,true,23464.81,2026-03-11
-Cliente_240,minorista,Cali,false,42246.54,2024-08-08
-Cliente_241,mayorista,San Salvador,true,16136.73,2026-03-26
-Cliente_242,corporativo,Miami,false,8435.8,2024-10-30
-Cliente_243,minorista,San Pedro Sula,true,19607.63,2026-02-06
-Cliente_244,mayorista,Tegucigalpa,true,32975.59,2025-05-16
-Cliente_245,corporativo,San Pedro Sula,false,16118.6,2026-02-25
-Cliente_246,gobierno,Tegucigalpa,true,44407.67,2022-12-24
-Cliente_247,gobierno,Panama City,false,29113.4,2022-11-08
-Cliente_248,gobierno,Houston,false,13757.81,2023-11-02
-Cliente_249,minorista,San Pedro Sula,true,23204.03,2023-03-15
-Cliente_250,gobierno,Puebla,true,21053.29,2023-03-26
-Cliente_251,minorista,San Jose,true,10017.52,2026-03-22
-Cliente_252,gobierno,San Pedro Sula,true,22083.18,2024-12-12
-Cliente_253,mayorista,Bogota,false,17579.75,2025-07-14
-Cliente_254,gobierno,San Pedro Sula,false,41557.76,2026-01-28
-Cliente_255,mayorista,Los Angeles,true,30097.9,2025-06-16
-Cliente_256,gobierno,Tegucigalpa,true,47955.28,2025-08-29
-Cliente_257,corporativo,Colon,true,36889.34,2025-12-19
-Cliente_258,gobierno,Houston,true,8515.6,2024-03-26
-Cliente_259,mayorista,San Jose,false,37044.78,2024-10-15
-Cliente_260,mayorista,Cali,true,43846.24,2025-06-14
-Cliente_261,mayorista,Antigua,true,29211.55,2024-11-18
-Cliente_262,mayorista,Los Angeles,true,28426.88,2025-03-17
-Cliente_263,mayorista,Quetzaltenango,true,47342.55,2023-06-10
-Cliente_264,gobierno,San Salvador,false,40743.77,2025-01-24
-Cliente_265,gobierno,Monterrey,true,45154.74,2023-07-26
-Cliente_266,mayorista,Monterrey,true,38116.49,2023-12-08
-Cliente_267,minorista,Guadalajara,false,22879.48,2024-09-03
-Cliente_268,minorista,Miami,false,37536.7,2024-10-15
-Cliente_269,gobierno,Santa Ana,true,14091.54,2023-12-25
-Cliente_270,minorista,Bogota,true,26070.4,2023-01-10
-Cliente_271,mayorista,Cali,true,48512.43,2023-12-06
-Cliente_272,gobierno,San Salvador,true,11474.63,2023-05-27
-Cliente_273,minorista,San Salvador,true,33248.79,2024-09-08
-Cliente_274,gobierno,Tegucigalpa,true,6971.33,2025-12-26
-Cliente_275,minorista,Bogota,false,26926.89,2025-09-04
-Cliente_276,gobierno,Quetzaltenango,true,32959.57,2024-06-09
-Cliente_277,minorista,Escuintla,false,40854.28,2025-06-28
-Cliente_278,minorista,Alajuela,false,27857.13,2024-06-09
-Cliente_279,minorista,Puebla,false,7238.47,2025-07-30
-Cliente_280,minorista,Miami,true,15943.66,2023-05-28
-Cliente_281,mayorista,Ciudad de Guatemala,true,31878.42,2023-05-20
-Cliente_282,gobierno,Antigua,true,49906.05,2023-08-11
-Cliente_283,mayorista,Tegucigalpa,false,2260.52,2025-04-18
-Cliente_284,gobierno,CDMX,true,45339.78,2025-01-29
-Cliente_285,minorista,Quetzaltenango,true,42053.21,2025-06-21
-Cliente_286,mayorista,Ciudad de Guatemala,true,28614.96,2024-06-02
-Cliente_287,minorista,Tegucigalpa,false,36185.14,2024-05-27
-Cliente_288,corporativo,San Pedro Sula,true,39842.39,2022-12-22
-Cliente_289,minorista,Miami,false,17708.8,2026-02-02
-Cliente_290,gobierno,San Jose,true,23637.37,2023-08-27
-Cliente_291,gobierno,Panama City,true,36907.52,2026-03-12
-Cliente_292,corporativo,San Pedro Sula,true,6702.48,2025-02-04
-Cliente_293,mayorista,Colon,true,49233.91,2025-08-17
-Cliente_294,minorista,San Salvador,false,15932.35,2023-06-10
-Cliente_295,gobierno,San Salvador,true,44215.45,2022-06-01
-Cliente_296,minorista,Tegucigalpa,false,34331.76,2026-03-28
-Cliente_297,mayorista,Houston,false,44076.02,2023-08-09
-Cliente_298,gobierno,Panama City,true,29574.18,2024-02-15
-Cliente_299,corporativo,Alajuela,true,29245.55,2025-09-04
-Cliente_300,gobierno,Escuintla,true,22883.97,2025-12-22
-Cliente_301,corporativo,Cali,false,41607.26,2024-02-02
-Cliente_302,gobierno,Miami,false,27473.79,2023-04-07
-Cliente_303,mayorista,Quetzaltenango,false,28800.16,2024-11-18
-Cliente_304,mayorista,San Pedro Sula,true,1057.89,2024-11-05
-Cliente_305,corporativo,Escuintla,true,2014.37,2024-12-16
-Cliente_306,mayorista,Quetzaltenango,false,32563.37,2023-09-08
-Cliente_307,gobierno,Houston,true,49528.27,2024-03-20
-Cliente_308,minorista,CDMX,true,30730.02,2025-02-26
-Cliente_309,gobierno,Tegucigalpa,true,31871.35,2023-07-28
-Cliente_310,mayorista,Bogota,true,18392.05,2026-01-20
-Cliente_311,minorista,Tegucigalpa,true,7206.26,2023-11-16
-Cliente_312,mayorista,Tegucigalpa,true,36715.86,2024-12-13
-Cliente_313,gobierno,San Jose,true,46044.99,2024-05-10
-Cliente_314,mayorista,Puebla,true,35167.21,2026-04-08
-Cliente_315,mayorista,Tegucigalpa,false,6485.62,2025-07-21
-Cliente_316,corporativo,San Jose,false,21913.96,2025-09-30
-Cliente_317,corporativo,Panama City,true,15697.1,2025-12-22
-Cliente_318,corporativo,Ciudad de Guatemala,true,19892.99,2023-07-12
-Cliente_319,mayorista,Colon,true,49051.06,2023-02-06
-Cliente_320,corporativo,Bogota,true,24461.92,2025-09-15
-Cliente_321,mayorista,San Pedro Sula,true,13066.71,2023-09-03
-Cliente_322,mayorista,San Salvador,true,7103.94,2023-10-27
-Cliente_323,corporativo,San Salvador,true,21648.39,2023-02-24
-Cliente_324,mayorista,Antigua,false,41188.33,2024-06-22
-Cliente_325,mayorista,Ciudad de Guatemala,true,1260,2024-03-17
-Cliente_326,minorista,Ciudad de Guatemala,true,19834.81,2025-06-26
-Cliente_327,corporativo,Guadalajara,true,41641.75,2024-03-13
-Cliente_328,corporativo,Bogota,false,6034.23,2024-12-29
-Cliente_329,corporativo,Alajuela,true,43124.99,2025-11-27
-Cliente_330,mayorista,Bogota,true,48983.74,2025-09-24
-Cliente_331,minorista,Panama City,true,28999.14,2025-08-03
-Cliente_332,minorista,Alajuela,true,6540.37,2024-07-26
-Cliente_333,mayorista,Cali,true,24358.38,2022-11-29
-Cliente_334,gobierno,San Pedro Sula,true,23384.37,2022-05-15
-Cliente_335,mayorista,Quetzaltenango,false,47581.35,2023-07-12
-Cliente_336,minorista,San Pedro Sula,true,36318.58,2024-01-26
-Cliente_337,mayorista,Tegucigalpa,true,45129.42,2024-03-19
-Cliente_338,minorista,CDMX,false,29406.38,2022-06-27
-Cliente_339,minorista,Escuintla,true,13122.08,2026-02-03
-Cliente_340,mayorista,Colon,true,20301.27,2023-08-27
-Cliente_341,minorista,Los Angeles,true,9988.61,2025-09-16
-Cliente_342,mayorista,Antigua,true,4092.89,2024-11-28
-Cliente_343,corporativo,San Salvador,true,11472.76,2025-09-06
-Cliente_344,minorista,Cali,true,43566.73,2023-01-07
-Cliente_345,corporativo,Cali,true,14323.79,2026-03-19
-Cliente_346,gobierno,San Pedro Sula,false,50666.84,2023-09-13
-Cliente_347,corporativo,Miami,true,26351.88,2025-11-06
-Cliente_348,mayorista,Cali,true,4813.63,2025-11-11
-Cliente_349,minorista,Santa Ana,true,17017.68,2022-05-05
-Cliente_350,mayorista,Cali,true,45637.35,2024-12-12
-Cliente_351,corporativo,Quetzaltenango,true,1200.01,2024-09-07
-Cliente_352,mayorista,Tegucigalpa,true,18099.32,2024-07-06
-Cliente_353,minorista,CDMX,true,42667.61,2026-03-13
-Cliente_354,gobierno,CDMX,false,32692.24,2023-02-10
-Cliente_355,minorista,Bogota,true,4001.15,2024-02-10
-Cliente_356,mayorista,Miami,true,41045.06,2025-10-02
-Cliente_357,corporativo,San Jose,true,8222.21,2024-02-06
-Cliente_358,mayorista,Los Angeles,true,47562.65,2024-03-03
-Cliente_359,gobierno,San Salvador,true,8697.31,2025-12-08
-Cliente_360,gobierno,Guadalajara,true,4712.99,2024-07-05
-Cliente_361,gobierno,Panama City,false,40689.27,2022-04-15
-Cliente_362,mayorista,Miami,false,17398.68,2024-06-17
-Cliente_363,minorista,Medellin,true,12513.55,2023-05-29
-Cliente_364,minorista,Escuintla,true,10615.67,2025-12-14
-Cliente_365,gobierno,Santa Ana,true,19350.72,2026-01-09
-Cliente_366,minorista,Cali,true,25645.08,2023-07-15
-Cliente_367,gobierno,Santa Ana,true,36561.45,2024-04-30
-Cliente_368,mayorista,Monterrey,true,25450.7,2026-01-15
-Cliente_369,mayorista,Santa Ana,true,42265.3,2026-03-03
-Cliente_370,mayorista,Bogota,true,33389.46,2022-07-21
-Cliente_371,gobierno,CDMX,true,2546.44,2025-02-12
-Cliente_372,mayorista,Panama City,false,34053.94,2024-09-03
-Cliente_373,mayorista,San Salvador,true,11622.99,2024-08-05
-Cliente_374,corporativo,Houston,false,17273.41,2022-12-22
-Cliente_375,corporativo,Alajuela,false,16919.28,2023-11-24
-Cliente_376,mayorista,San Salvador,false,47948.97,2023-06-28
-Cliente_377,minorista,Medellin,true,11364.56,2025-07-22
-Cliente_378,gobierno,Santa Ana,false,34971.16,2024-03-29
-Cliente_379,minorista,Antigua,false,34140.82,2023-08-26
-Cliente_380,mayorista,Tegucigalpa,true,2693.22,2024-02-12
-Cliente_381,mayorista,San Jose,false,15092.64,2025-08-04
-Cliente_382,minorista,Antigua,false,36313.64,2025-10-02
-Cliente_383,corporativo,Ciudad de Guatemala,true,6925.89,2024-02-11
-Cliente_384,gobierno,San Pedro Sula,true,5978.59,2024-02-17
-Cliente_385,gobierno,Houston,true,23446.85,2022-10-19
-Cliente_386,mayorista,Bogota,true,34748.9,2026-02-16
-Cliente_387,mayorista,Colon,false,41020.54,2025-12-29
-Cliente_388,gobierno,Cali,true,1160.34,2023-11-28
-Cliente_389,gobierno,San Jose,true,27140.59,2023-07-05
-Cliente_390,minorista,San Salvador,true,32804.54,2023-05-13
-Cliente_391,corporativo,Escuintla,true,33286.65,2026-04-21
-Cliente_392,gobierno,Bogota,true,36282.57,2025-04-07
-Cliente_393,corporativo,Monterrey,true,5670.6,2022-07-14
-Cliente_394,minorista,Antigua,true,14316.92,2023-06-13
-Cliente_395,mayorista,San Pedro Sula,true,21935.42,2023-09-22
-Cliente_396,mayorista,Cali,true,25268.38,2022-04-08
-Cliente_397,mayorista,Quetzaltenango,true,40574.45,2024-03-13
-Cliente_398,minorista,Escuintla,true,13270.77,2025-04-18
-Cliente_399,gobierno,Cali,true,27073.61,2024-04-08
-Cliente_400,mayorista,Houston,false,34709.68,2024-07-06
-Cliente_401,gobierno,Bogota,true,37664.87,2022-06-05
-Cliente_402,corporativo,Cali,true,18148.49,2023-07-01
-Cliente_403,minorista,Panama City,true,15277.81,2024-09-09
-Cliente_404,gobierno,CDMX,true,17028.68,2024-06-02
-Cliente_405,gobierno,Ciudad de Guatemala,false,6188.89,2024-09-29
-Cliente_406,gobierno,Alajuela,true,11696.67,2022-12-03
-Cliente_407,gobierno,CDMX,true,21124.86,2022-11-05
-Cliente_408,corporativo,Miami,false,5043.6,2022-08-17
-Cliente_409,minorista,Ciudad de Guatemala,true,45038.09,2024-03-02
-Cliente_410,corporativo,Escuintla,true,30884.81,2023-05-20
-Cliente_411,mayorista,Panama City,true,31631.84,2023-02-06
-Cliente_412,minorista,Bogota,true,29555.19,2026-02-28
-Cliente_413,corporativo,San Salvador,true,50723.92,2025-08-09
-Cliente_414,corporativo,San Pedro Sula,false,9060.87,2024-08-07
-Cliente_415,minorista,Antigua,true,26767.66,2025-07-29
-Cliente_416,mayorista,Ciudad de Guatemala,true,15309.42,2022-04-02
-Cliente_417,mayorista,Alajuela,true,45513.92,2023-12-12
-Cliente_418,minorista,Monterrey,true,20641.95,2023-06-26
-Cliente_419,gobierno,Miami,true,41831.6,2023-03-25
-Cliente_420,gobierno,Santa Ana,true,12571.89,2023-01-13
-Cliente_421,minorista,Tegucigalpa,true,49384.37,2022-06-23
-Cliente_422,corporativo,Miami,true,43356.71,2024-04-04
-Cliente_423,mayorista,Tegucigalpa,true,6375.11,2022-07-29
-Cliente_424,gobierno,Bogota,true,14550.98,2023-05-20
-Cliente_425,gobierno,Los Angeles,false,49775.28,2023-03-13
-Cliente_426,mayorista,Antigua,true,13762.23,2022-07-29
-Cliente_427,corporativo,Houston,true,43179.67,2024-05-01
-Cliente_428,gobierno,Panama City,false,33918.39,2026-01-02
-Cliente_429,corporativo,Medellin,true,22010.07,2024-06-10
-Cliente_430,minorista,Antigua,true,19761.58,2022-04-25
-Cliente_431,minorista,San Pedro Sula,true,49599.77,2024-01-17
-Cliente_432,mayorista,San Pedro Sula,false,39365.09,2023-07-16
-Cliente_433,minorista,Santa Ana,true,2820.26,2024-12-07
-Cliente_434,corporativo,Los Angeles,true,49631.62,2024-02-18
-Cliente_435,mayorista,San Jose,true,36075.46,2022-07-08
-Cliente_436,mayorista,Bogota,false,46468.41,2024-11-18
-Cliente_437,gobierno,Santa Ana,false,24696.25,2023-08-09
-Cliente_438,corporativo,Ciudad de Guatemala,true,23510.76,2024-10-20
-Cliente_439,minorista,Puebla,false,36528.07,2024-10-13
-Cliente_440,corporativo,Los Angeles,false,37764,2023-10-15
-Cliente_441,corporativo,San Jose,true,40445.51,2024-03-04
-Cliente_442,minorista,San Jose,true,3398.2,2024-08-01
-Cliente_443,minorista,Ciudad de Guatemala,false,46060.38,2025-10-28
-Cliente_444,mayorista,Escuintla,false,39036.33,2022-08-10
-Cliente_445,corporativo,Guadalajara,false,35641.73,2025-11-20
-Cliente_446,mayorista,Medellin,true,26733.31,2023-03-04
-Cliente_447,corporativo,San Salvador,true,9052.24,2023-10-31
-Cliente_448,mayorista,Antigua,true,13025.83,2024-05-23
-Cliente_449,gobierno,San Jose,true,21147.87,2024-09-09
-Cliente_450,mayorista,Miami,false,19848.99,2025-07-09
-Cliente_451,mayorista,Medellin,true,32218.16,2025-08-08
-Cliente_452,mayorista,San Pedro Sula,false,38226.42,2023-05-09
-Cliente_453,gobierno,Colon,false,24243.61,2026-03-25
-Cliente_454,gobierno,Monterrey,true,7700.92,2024-07-24
-Cliente_455,mayorista,San Pedro Sula,true,48131.86,2022-07-02
-Cliente_456,gobierno,Tegucigalpa,true,33904.41,2023-12-25
-Cliente_457,mayorista,Miami,false,37152.11,2026-04-09
-Cliente_458,mayorista,Alajuela,true,38845.84,2025-11-30
-Cliente_459,gobierno,Monterrey,false,42600.5,2022-07-07
-Cliente_460,mayorista,San Pedro Sula,false,49275.96,2025-02-15
-Cliente_461,gobierno,Puebla,true,6240.44,2025-03-25
-Cliente_462,gobierno,Escuintla,true,12758.98,2024-06-04
-Cliente_463,gobierno,Alajuela,true,8480.8,2025-08-20
-Cliente_464,gobierno,San Pedro Sula,true,6363.53,2023-01-29
-Cliente_465,mayorista,Miami,false,36688.84,2022-10-24
-Cliente_466,mayorista,Colon,false,39522.51,2025-03-19
-Cliente_467,gobierno,San Jose,false,44631.38,2024-12-05
-Cliente_468,gobierno,Medellin,false,28114.39,2025-11-06
-Cliente_469,corporativo,Houston,false,39379.92,2022-10-22
-Cliente_470,mayorista,Tegucigalpa,true,4045.23,2022-12-31
-Cliente_471,mayorista,Colon,true,16895.75,2025-02-20
-Cliente_472,mayorista,Miami,true,45412.47,2025-04-20
-Cliente_473,corporativo,Quetzaltenango,true,12660.16,2025-05-10
-Cliente_474,mayorista,San Jose,true,38249.11,2025-05-25
-Cliente_475,gobierno,Cali,true,41322.69,2023-06-24
-Cliente_476,corporativo,Bogota,true,19051.1,2024-06-19
-Cliente_477,gobierno,Cali,true,37276.37,2025-06-06
-Cliente_478,mayorista,Santa Ana,true,21383.53,2023-03-05
-Cliente_479,minorista,Guadalajara,true,27010.77,2022-09-22
-Cliente_480,gobierno,Alajuela,false,49146.34,2023-11-25
-Cliente_481,minorista,Medellin,false,7461.36,2024-12-18
-Cliente_482,gobierno,Miami,true,45374.06,2022-06-16
-Cliente_483,gobierno,Puebla,true,18086.8,2024-02-23
-Cliente_484,mayorista,Alajuela,true,2029.83,2024-11-23
-Cliente_485,mayorista,San Jose,true,5951.37,2026-04-12
-Cliente_486,corporativo,Panama City,false,8567.07,2025-09-07
-Cliente_487,gobierno,San Pedro Sula,true,4206.9,2024-06-17
-Cliente_488,minorista,Miami,true,33661.85,2025-01-24
-Cliente_489,minorista,Miami,true,31503.82,2024-12-29
-Cliente_490,minorista,Los Angeles,true,8882.91,2023-08-17
-Cliente_491,corporativo,Colon,true,27300.6,2025-01-06
-Cliente_492,gobierno,Bogota,false,32423.49,2023-08-07
-Cliente_493,corporativo,Los Angeles,true,10734.48,2024-06-03
-Cliente_494,corporativo,Tegucigalpa,false,22661.09,2023-01-07
-Cliente_495,gobierno,San Salvador,true,19491.69,2025-11-24
-Cliente_496,minorista,Panama City,true,30060.62,2024-01-25
-Cliente_497,gobierno,Quetzaltenango,true,35644.76,2024-06-14
-Cliente_498,gobierno,San Jose,true,44313.87,2023-05-12
-Cliente_499,mayorista,San Jose,true,7806.04,2024-10-16
-Cliente_500,minorista,CDMX,true,23129.16,2025-01-30
+Cliente_1,corporativo,Alajuela,false,33584.39,2023-09-29
+Cliente_2,gobierno,Panama City,true,23923.06,2024-01-08
+Cliente_3,corporativo,Santa Ana,false,33439.07,2024-04-02
+Cliente_4,gobierno,Guadalajara,true,33930.5,2025-12-15
+Cliente_5,corporativo,Colon,false,1740.33,2025-03-04
+Cliente_6,gobierno,Puebla,false,43178.08,2023-10-23
+Cliente_7,gobierno,Houston,true,44031.58,2023-06-07
+Cliente_8,corporativo,Guadalajara,true,27712.71,2025-03-02
+Cliente_9,corporativo,San Pedro Sula,false,38260.26,2025-12-11
+Cliente_10,gobierno,San Jose,false,44620.65,2026-04-27
+Cliente_11,minorista,San Pedro Sula,false,47592.9,2025-09-12
+Cliente_12,mayorista,Escuintla,true,10799.13,2022-12-24
+Cliente_13,mayorista,Santa Ana,false,13571.98,2022-11-01
+Cliente_14,gobierno,Alajuela,true,39472.38,2024-02-29
+Cliente_15,corporativo,Puebla,true,14116.91,2023-12-01
+Cliente_16,minorista,Alajuela,true,31772.63,2022-09-07
+Cliente_17,gobierno,Panama City,true,50779.82,2026-02-13
+Cliente_18,gobierno,San Jose,true,3004.54,2023-09-28
+Cliente_19,mayorista,Antigua,true,40536.71,2024-07-14
+Cliente_20,corporativo,Los Angeles,true,29566.62,2025-03-03
+Cliente_21,mayorista,Panama City,true,41933.62,2022-06-03
+Cliente_22,mayorista,Quetzaltenango,false,7295.06,2024-12-28
+Cliente_23,gobierno,Puebla,true,42557.44,2026-03-03
+Cliente_24,minorista,Miami,false,6404.73,2025-07-02
+Cliente_25,gobierno,CDMX,true,3330.9,2024-03-28
+Cliente_26,corporativo,San Pedro Sula,false,50736.41,2025-11-10
+Cliente_27,mayorista,Escuintla,true,45497.39,2022-06-16
+Cliente_28,gobierno,Antigua,true,24970.62,2025-03-31
+Cliente_29,gobierno,Alajuela,false,39129.13,2024-01-23
+Cliente_30,minorista,Santa Ana,true,48837.96,2025-09-26
+Cliente_31,corporativo,San Jose,true,33426.23,2025-07-02
+Cliente_32,corporativo,Alajuela,true,18998.54,2023-03-03
+Cliente_33,mayorista,Panama City,false,26559.57,2024-11-09
+Cliente_34,gobierno,Miami,true,46034.89,2023-11-14
+Cliente_35,mayorista,Colon,true,45009.43,2025-09-19
+Cliente_36,mayorista,Panama City,true,31774.97,2024-08-30
+Cliente_37,corporativo,San Salvador,true,46683.77,2024-12-24
+Cliente_38,gobierno,Ciudad de Guatemala,false,37003.08,2023-09-24
+Cliente_39,corporativo,Ciudad de Guatemala,false,2046.02,2025-08-30
+Cliente_40,mayorista,Alajuela,false,32556.57,2023-11-06
+Cliente_41,minorista,San Jose,false,22121.56,2023-03-09
+Cliente_42,minorista,San Pedro Sula,false,19038.38,2023-05-28
+Cliente_43,mayorista,Cali,true,41054.57,2022-06-11
+Cliente_44,gobierno,Colon,true,8318.17,2024-12-13
+Cliente_45,corporativo,San Jose,true,27907.97,2025-12-02
+Cliente_46,mayorista,Alajuela,true,29750.44,2022-09-11
+Cliente_47,minorista,Santa Ana,false,2763.67,2025-02-27
+Cliente_48,mayorista,Puebla,true,16621.85,2022-08-26
+Cliente_49,corporativo,San Salvador,true,31842.37,2023-09-12
+Cliente_50,gobierno,Tegucigalpa,false,28168.88,2022-12-30
+Cliente_51,minorista,San Pedro Sula,true,16535.3,2023-05-14
+Cliente_52,gobierno,Colon,true,22582.5,2022-05-22
+Cliente_53,mayorista,Tegucigalpa,true,22786.55,2025-11-03
+Cliente_54,minorista,San Salvador,true,13076.26,2025-11-20
+Cliente_55,mayorista,Cali,true,28923.04,2024-07-17
+Cliente_56,gobierno,San Pedro Sula,true,45542.38,2025-04-12
+Cliente_57,gobierno,Santa Ana,true,50211.51,2024-06-13
+Cliente_58,gobierno,San Jose,true,4019.08,2023-02-15
+Cliente_59,gobierno,Guadalajara,true,34620.74,2022-09-22
+Cliente_60,minorista,Bogota,false,46785.13,2023-12-21
+Cliente_61,minorista,Alajuela,true,16633.83,2025-06-15
+Cliente_62,minorista,Alajuela,false,11053.24,2024-02-18
+Cliente_63,minorista,San Jose,true,31165.01,2022-11-29
+Cliente_64,minorista,Alajuela,false,15923.08,2025-03-25
+Cliente_65,gobierno,Los Angeles,true,50880.65,2022-06-18
+Cliente_66,gobierno,Puebla,false,36813.56,2023-08-09
+Cliente_67,mayorista,Cali,false,25066.7,2023-03-09
+Cliente_68,corporativo,San Jose,true,27165.91,2025-03-25
+Cliente_69,minorista,Alajuela,true,3039.49,2025-05-18
+Cliente_70,mayorista,Bogota,true,25419.63,2024-05-15
+Cliente_71,corporativo,Tegucigalpa,true,29287.34,2023-07-28
+Cliente_72,minorista,CDMX,true,36536.74,2025-05-07
+Cliente_73,gobierno,Puebla,true,10516.7,2022-06-30
+Cliente_74,corporativo,CDMX,false,7194.96,2025-05-11
+Cliente_75,gobierno,Antigua,true,47683.06,2026-04-04
+Cliente_76,minorista,Panama City,true,18345.03,2024-02-04
+Cliente_77,minorista,Alajuela,true,17092.35,2024-10-15
+Cliente_78,mayorista,Guadalajara,true,17350.58,2025-10-26
+Cliente_79,gobierno,Medellin,true,38256.94,2024-11-15
+Cliente_80,gobierno,Medellin,true,7573.73,2022-12-13
+Cliente_81,minorista,San Pedro Sula,true,25320.46,2023-12-13
+Cliente_82,gobierno,Santa Ana,true,35755.3,2026-04-08
+Cliente_83,corporativo,Escuintla,true,13907.13,2026-01-18
+Cliente_84,minorista,Houston,true,31438.73,2025-11-10
+Cliente_85,mayorista,Guadalajara,true,3347.09,2023-06-01
+Cliente_86,gobierno,Escuintla,true,9848.93,2024-01-05
+Cliente_87,corporativo,Miami,true,19033.78,2025-07-11
+Cliente_88,mayorista,Ciudad de Guatemala,true,15958.76,2025-05-29
+Cliente_89,corporativo,Panama City,true,8412.3,2022-04-06
+Cliente_90,mayorista,Antigua,true,18422.59,2024-05-15
+Cliente_91,corporativo,Bogota,false,46492.83,2024-06-22
+Cliente_92,corporativo,Guadalajara,true,32354.02,2022-03-27
+Cliente_93,gobierno,Puebla,false,2955.98,2025-03-29
+Cliente_94,mayorista,Ciudad de Guatemala,true,12774.6,2022-10-10
+Cliente_95,mayorista,Guadalajara,true,23029.26,2023-12-10
+Cliente_96,gobierno,Panama City,true,12936.47,2025-01-25
+Cliente_97,corporativo,Colon,true,11309.04,2023-08-21
+Cliente_98,gobierno,Colon,true,44080.23,2025-10-16
+Cliente_99,gobierno,Colon,false,28559.9,2026-02-15
+Cliente_100,corporativo,Houston,true,17022.77,2022-07-09
+Cliente_101,corporativo,Santa Ana,true,25265.65,2025-12-18
+Cliente_102,mayorista,Los Angeles,true,47401.02,2025-01-21
+Cliente_103,mayorista,Houston,true,18815.09,2024-09-03
+Cliente_104,minorista,Puebla,true,19888.15,2024-09-29
+Cliente_105,mayorista,Alajuela,false,4647.63,2024-06-27
+Cliente_106,mayorista,San Pedro Sula,true,49172.63,2026-01-05
+Cliente_107,corporativo,San Pedro Sula,true,46378.88,2025-12-03
+Cliente_108,gobierno,Antigua,false,24074.77,2024-11-12
+Cliente_109,minorista,Puebla,true,29048.98,2024-10-09
+Cliente_110,gobierno,San Salvador,true,11711.05,2024-07-31
+Cliente_111,gobierno,Escuintla,true,2599.06,2023-01-03
+Cliente_112,corporativo,Medellin,false,40870.15,2024-09-02
+Cliente_113,corporativo,Houston,true,1180.69,2025-05-21
+Cliente_114,mayorista,Houston,false,33058.66,2025-02-10
+Cliente_115,corporativo,Santa Ana,false,40475.86,2024-09-12
+Cliente_116,gobierno,Panama City,false,5668.38,2023-06-07
+Cliente_117,gobierno,San Jose,true,39243.18,2023-03-04
+Cliente_118,corporativo,Cali,true,42856.19,2025-06-12
+Cliente_119,mayorista,Ciudad de Guatemala,false,45646.89,2023-01-26
+Cliente_120,mayorista,Quetzaltenango,true,28265.41,2025-05-08
+Cliente_121,corporativo,Santa Ana,false,30860.53,2023-10-25
+Cliente_122,minorista,Monterrey,false,25446.91,2024-01-09
+Cliente_123,minorista,CDMX,true,10606,2026-02-21
+Cliente_124,corporativo,Colon,true,32062.22,2022-04-01
+Cliente_125,minorista,Bogota,false,26589.27,2023-05-03
+Cliente_126,corporativo,CDMX,true,36875.68,2024-11-04
+Cliente_127,mayorista,Houston,true,40710.23,2023-06-18
+Cliente_128,gobierno,Puebla,true,31760.09,2022-07-16
+Cliente_129,corporativo,Medellin,true,10237.41,2025-12-29
+Cliente_130,mayorista,Alajuela,true,25019.75,2023-09-08
+Cliente_131,mayorista,CDMX,true,27135.27,2023-12-05
+Cliente_132,gobierno,Guadalajara,false,15088.02,2022-08-29
+Cliente_133,mayorista,CDMX,false,7804.29,2025-03-20
+Cliente_134,minorista,Miami,true,46535.73,2025-01-22
+Cliente_135,corporativo,Medellin,true,29458.33,2025-06-18
+Cliente_136,corporativo,San Salvador,true,22737.56,2025-09-27
+Cliente_137,gobierno,CDMX,false,50906.17,2024-06-14
+Cliente_138,mayorista,San Pedro Sula,false,12186,2023-01-05
+Cliente_139,gobierno,Monterrey,true,37591.35,2025-05-15
+Cliente_140,gobierno,San Salvador,false,21120.22,2023-06-12
+Cliente_141,minorista,Monterrey,true,4736.63,2022-07-13
+Cliente_142,gobierno,Houston,true,30618.45,2022-08-26
+Cliente_143,minorista,Alajuela,true,48122.88,2024-11-30
+Cliente_144,mayorista,San Pedro Sula,true,31288.85,2024-03-01
+Cliente_145,gobierno,Ciudad de Guatemala,true,14141.61,2023-09-14
+Cliente_146,gobierno,Miami,true,32707.38,2025-07-09
+Cliente_147,mayorista,Houston,true,46070.25,2023-12-06
+Cliente_148,minorista,Miami,true,3896.76,2025-02-26
+Cliente_149,mayorista,San Pedro Sula,true,46968.58,2024-04-30
+Cliente_150,mayorista,Colon,true,40022.12,2024-05-20
+Cliente_151,corporativo,San Pedro Sula,true,49795.53,2022-11-02
+Cliente_152,corporativo,Los Angeles,true,16353.31,2025-05-20
+Cliente_153,minorista,Medellin,false,13968.3,2022-04-22
+Cliente_154,mayorista,Panama City,true,33754.1,2024-01-10
+Cliente_155,gobierno,Los Angeles,true,47959.62,2025-12-26
+Cliente_156,gobierno,Antigua,true,39228.08,2024-10-01
+Cliente_157,gobierno,Houston,true,47095.98,2026-03-29
+Cliente_158,mayorista,Antigua,true,39857.86,2022-09-12
+Cliente_159,gobierno,San Jose,false,33447,2022-05-02
+Cliente_160,minorista,Colon,false,42802.09,2022-04-18
+Cliente_161,mayorista,Miami,false,2773.48,2022-07-04
+Cliente_162,mayorista,Antigua,true,29780.72,2024-10-21
+Cliente_163,gobierno,Houston,false,27249.56,2023-05-22
+Cliente_164,minorista,Ciudad de Guatemala,true,28908.95,2024-02-26
+Cliente_165,minorista,Quetzaltenango,true,4935.92,2025-12-24
+Cliente_166,mayorista,Los Angeles,false,4728.88,2022-04-01
+Cliente_167,minorista,Puebla,false,44000.29,2022-12-04
+Cliente_168,minorista,Panama City,true,8017.78,2024-11-16
+Cliente_169,mayorista,Houston,true,17893.66,2025-01-08
+Cliente_170,corporativo,CDMX,true,27594.26,2025-01-10
+Cliente_171,gobierno,San Salvador,true,37441.63,2022-06-07
+Cliente_172,gobierno,San Jose,true,26564.79,2024-11-11
+Cliente_173,corporativo,Alajuela,false,48490.55,2024-01-29
+Cliente_174,gobierno,Miami,true,19188.15,2026-03-05
+Cliente_175,minorista,Escuintla,false,6756.29,2024-06-22
+Cliente_176,gobierno,San Pedro Sula,true,4585.91,2022-10-03
+Cliente_177,mayorista,San Salvador,false,7597.69,2022-11-19
+Cliente_178,gobierno,Colon,false,20439.57,2025-08-02
+Cliente_179,corporativo,Los Angeles,true,45429.97,2026-01-15
+Cliente_180,gobierno,Quetzaltenango,false,39889.59,2025-04-09
+Cliente_181,corporativo,Quetzaltenango,false,33399.61,2023-09-04
+Cliente_182,minorista,Colon,true,10772.17,2022-06-11
+Cliente_183,corporativo,Bogota,true,44206.34,2025-10-15
+Cliente_184,corporativo,Quetzaltenango,true,15726.71,2024-09-29
+Cliente_185,minorista,Panama City,true,48154.29,2023-03-11
+Cliente_186,gobierno,Cali,true,47583.48,2023-12-17
+Cliente_187,minorista,Cali,true,35708.56,2023-04-03
+Cliente_188,gobierno,San Pedro Sula,false,42531.08,2022-05-13
+Cliente_189,corporativo,Tegucigalpa,true,29424.8,2022-12-20
+Cliente_190,minorista,San Salvador,false,47044.12,2022-11-17
+Cliente_191,corporativo,San Pedro Sula,true,38177.32,2024-12-22
+Cliente_192,mayorista,Panama City,true,16456.15,2024-06-29
+Cliente_193,gobierno,Medellin,false,18356.18,2024-03-06
+Cliente_194,minorista,Houston,true,19613.82,2023-04-08
+Cliente_195,minorista,Tegucigalpa,true,8970.3,2023-04-10
+Cliente_196,mayorista,Miami,false,29003.67,2023-01-11
+Cliente_197,corporativo,Colon,true,27901.03,2022-09-15
+Cliente_198,corporativo,Medellin,false,28630.27,2026-03-16
+Cliente_199,corporativo,Los Angeles,false,29080.81,2026-01-30
+Cliente_200,mayorista,San Jose,true,9134.91,2022-12-19
+Cliente_201,gobierno,Santa Ana,true,16615.14,2022-08-04
+Cliente_202,corporativo,Tegucigalpa,true,38096.03,2024-03-07
+Cliente_203,gobierno,Los Angeles,false,37865.23,2025-04-13
+Cliente_204,minorista,San Jose,true,13381.09,2023-03-14
+Cliente_205,minorista,Panama City,true,48926.48,2024-10-08
+Cliente_206,gobierno,San Jose,true,42514.37,2022-07-12
+Cliente_207,minorista,Los Angeles,true,8519.42,2026-03-11
+Cliente_208,mayorista,San Salvador,false,48336.37,2022-05-13
+Cliente_209,mayorista,Alajuela,true,50514.81,2025-08-17
+Cliente_210,mayorista,CDMX,true,28442.31,2026-01-31
+Cliente_211,gobierno,Tegucigalpa,true,17901.62,2026-02-25
+Cliente_212,corporativo,Tegucigalpa,false,19002.29,2023-02-23
+Cliente_213,minorista,Antigua,false,31599.76,2022-03-30
+Cliente_214,minorista,Santa Ana,true,41459.71,2023-03-25
+Cliente_215,gobierno,Medellin,true,26824.41,2025-06-04
+Cliente_216,corporativo,Tegucigalpa,true,28125.15,2022-05-29
+Cliente_217,gobierno,Colon,true,19004.04,2024-10-19
+Cliente_218,minorista,Santa Ana,true,25250.42,2022-04-04
+Cliente_219,mayorista,Santa Ana,false,41486.16,2026-02-11
+Cliente_220,gobierno,Tegucigalpa,true,45264.04,2022-10-24
+Cliente_221,corporativo,Medellin,true,36805.46,2024-03-24
+Cliente_222,minorista,San Jose,true,38251.11,2025-03-16
+Cliente_223,minorista,CDMX,false,42632.14,2025-03-26
+Cliente_224,corporativo,Los Angeles,true,7086.61,2023-08-23
+Cliente_225,corporativo,Colon,true,37377.42,2025-12-09
+Cliente_226,corporativo,Escuintla,true,11387.01,2026-03-17
+Cliente_227,gobierno,San Jose,false,32504.69,2025-02-07
+Cliente_228,mayorista,Santa Ana,false,8281.77,2025-04-27
+Cliente_229,mayorista,Miami,true,11770.7,2026-01-11
+Cliente_230,minorista,Bogota,false,18882.64,2025-01-10
+Cliente_231,gobierno,Panama City,true,38918.24,2022-07-07
+Cliente_232,corporativo,Colon,false,30183.87,2022-05-28
+Cliente_233,corporativo,San Salvador,true,50745.54,2022-05-12
+Cliente_234,minorista,Bogota,false,47891.45,2024-12-02
+Cliente_235,gobierno,San Pedro Sula,false,42622.93,2025-02-07
+Cliente_236,minorista,San Pedro Sula,true,20002.39,2023-05-30
+Cliente_237,mayorista,Los Angeles,false,33505.33,2023-10-18
+Cliente_238,gobierno,Miami,true,8721.77,2023-07-19
+Cliente_239,gobierno,Alajuela,true,33445.42,2025-11-20
+Cliente_240,mayorista,Panama City,false,36577.64,2024-11-30
+Cliente_241,gobierno,Colon,false,21537.94,2022-04-25
+Cliente_242,minorista,Panama City,true,24669.2,2022-06-22
+Cliente_243,corporativo,Guadalajara,true,5387.22,2025-09-13
+Cliente_244,mayorista,Alajuela,true,32482.53,2024-11-02
+Cliente_245,corporativo,Santa Ana,true,15611.06,2023-01-21
+Cliente_246,corporativo,San Salvador,true,9434.81,2022-11-19
+Cliente_247,mayorista,Panama City,true,49502.85,2025-11-06
+Cliente_248,minorista,Puebla,true,21276.92,2023-04-29
+Cliente_249,mayorista,Tegucigalpa,true,29329.16,2024-07-21
+Cliente_250,gobierno,Colon,false,15543.63,2026-03-07
+Cliente_251,mayorista,Santa Ana,true,50350.4,2024-12-04
+Cliente_252,mayorista,Miami,true,19031.32,2023-07-05
+Cliente_253,gobierno,CDMX,true,46536.68,2025-12-02
+Cliente_254,mayorista,Panama City,true,2106.62,2025-07-08
+Cliente_255,mayorista,Panama City,true,42526.61,2022-10-09
+Cliente_256,minorista,Puebla,true,24840.35,2024-04-22
+Cliente_257,minorista,San Jose,false,34127.06,2023-11-19
+Cliente_258,minorista,Bogota,true,11156.32,2022-05-17
+Cliente_259,gobierno,Panama City,true,23194.64,2024-12-12
+Cliente_260,gobierno,Santa Ana,true,19014.29,2025-08-13
+Cliente_261,minorista,San Jose,true,37220.15,2025-06-07
+Cliente_262,minorista,San Jose,false,5905.07,2023-09-22
+Cliente_263,corporativo,San Pedro Sula,false,40778.65,2025-04-01
+Cliente_264,gobierno,San Jose,true,29924.06,2024-02-22
+Cliente_265,minorista,Monterrey,true,5207.25,2024-09-07
+Cliente_266,gobierno,Panama City,true,21395.4,2022-08-03
+Cliente_267,corporativo,San Salvador,true,38679.06,2023-09-26
+Cliente_268,mayorista,Colon,true,49658.17,2022-12-05
+Cliente_269,mayorista,San Salvador,true,8142.9,2025-06-16
+Cliente_270,gobierno,San Salvador,false,36921.73,2023-12-09
+Cliente_271,gobierno,Monterrey,false,7828.01,2026-01-01
+Cliente_272,gobierno,Panama City,true,27176.58,2025-09-03
+Cliente_273,corporativo,Tegucigalpa,true,7247.32,2025-10-14
+Cliente_274,minorista,Tegucigalpa,true,5049.86,2022-05-31
+Cliente_275,mayorista,Panama City,true,28415.8,2025-09-05
+Cliente_276,gobierno,Medellin,true,22000.55,2025-06-06
+Cliente_277,corporativo,Colon,true,33974.87,2023-03-31
+Cliente_278,gobierno,Escuintla,true,38482.42,2025-06-13
+Cliente_279,minorista,CDMX,false,44619.19,2023-05-22
+Cliente_280,corporativo,Bogota,true,3583.16,2025-05-11
+Cliente_281,corporativo,Colon,true,32496.36,2023-02-15
+Cliente_282,corporativo,Houston,false,1687.58,2024-02-24
+Cliente_283,gobierno,San Jose,true,3634.43,2025-02-19
+Cliente_284,gobierno,Alajuela,true,39443.46,2023-09-19
+Cliente_285,corporativo,Panama City,true,43905.68,2023-08-22
+Cliente_286,gobierno,CDMX,true,36450.11,2026-04-03
+Cliente_287,mayorista,Houston,true,43408.28,2023-11-16
+Cliente_288,gobierno,Santa Ana,false,11547.44,2024-05-15
+Cliente_289,minorista,Monterrey,true,3282.17,2023-04-10
+Cliente_290,corporativo,Alajuela,true,27012.89,2023-11-09
+Cliente_291,gobierno,San Pedro Sula,true,47223.9,2025-03-16
+Cliente_292,mayorista,Cali,true,26344.07,2023-11-25
+Cliente_293,mayorista,Santa Ana,false,40435.43,2024-07-24
+Cliente_294,gobierno,Santa Ana,true,20864.99,2023-04-07
+Cliente_295,minorista,San Salvador,true,41423.4,2023-09-22
+Cliente_296,minorista,San Salvador,false,34898.82,2025-09-04
+Cliente_297,gobierno,Panama City,false,22816.21,2022-11-30
+Cliente_298,mayorista,Quetzaltenango,true,49178.82,2025-08-18
+Cliente_299,corporativo,San Jose,false,16624.54,2025-02-10
+Cliente_300,minorista,Bogota,true,22005.45,2026-04-17
+Cliente_301,gobierno,Bogota,true,1875.24,2023-10-27
+Cliente_302,minorista,San Salvador,false,4551.36,2023-10-01
+Cliente_303,corporativo,CDMX,false,34724.83,2022-05-31
+Cliente_304,corporativo,Puebla,false,50260.11,2022-07-10
+Cliente_305,minorista,Houston,false,46903.77,2024-05-12
+Cliente_306,gobierno,San Pedro Sula,true,2034.96,2024-05-23
+Cliente_307,corporativo,Escuintla,false,42351.58,2023-08-23
+Cliente_308,minorista,San Salvador,true,37463.04,2023-08-09
+Cliente_309,gobierno,San Jose,false,48114.77,2024-09-13
+Cliente_310,gobierno,San Jose,true,11253.56,2023-02-20
+Cliente_311,mayorista,Ciudad de Guatemala,true,27294.15,2026-03-10
+Cliente_312,mayorista,Alajuela,true,41460.91,2022-11-04
+Cliente_313,corporativo,Ciudad de Guatemala,true,29992.76,2024-01-08
+Cliente_314,gobierno,Alajuela,false,50140.76,2023-10-26
+Cliente_315,minorista,San Salvador,true,7479.3,2026-03-17
+Cliente_316,corporativo,Medellin,false,32886.15,2023-03-27
+Cliente_317,corporativo,Panama City,false,47302.94,2024-03-26
+Cliente_318,gobierno,Monterrey,true,35862.13,2024-02-27
+Cliente_319,minorista,Colon,true,10999.59,2022-06-09
+Cliente_320,gobierno,Escuintla,true,22779.66,2026-01-10
+Cliente_321,corporativo,Alajuela,true,15240.28,2024-07-14
+Cliente_322,gobierno,Cali,true,3970.13,2024-03-21
+Cliente_323,mayorista,Houston,false,32727.33,2024-07-22
+Cliente_324,mayorista,Miami,true,21959.9,2025-06-08
+Cliente_325,corporativo,Cali,true,18108.9,2024-05-30
+Cliente_326,gobierno,Alajuela,true,30373.74,2025-01-24
+Cliente_327,gobierno,San Jose,true,39308.01,2023-05-22
+Cliente_328,minorista,San Pedro Sula,true,18949.31,2023-10-05
+Cliente_329,gobierno,Houston,true,47950.33,2024-03-10
+Cliente_330,corporativo,Santa Ana,true,9938.81,2023-05-28
+Cliente_331,gobierno,Tegucigalpa,true,35214.31,2024-08-09
+Cliente_332,corporativo,Panama City,false,10872.29,2023-08-21
+Cliente_333,mayorista,Guadalajara,true,42234.01,2024-04-25
+Cliente_334,gobierno,Houston,false,19264.41,2022-09-30
+Cliente_335,minorista,Escuintla,true,7566.7,2024-04-17
+Cliente_336,minorista,Tegucigalpa,true,21685.02,2023-05-03
+Cliente_337,gobierno,Alajuela,true,2380.1,2023-03-18
+Cliente_338,minorista,Alajuela,false,34708.78,2024-03-27
+Cliente_339,minorista,Miami,true,46079.24,2024-02-03
+Cliente_340,gobierno,Tegucigalpa,true,50481.66,2025-10-20
+Cliente_341,corporativo,Ciudad de Guatemala,true,45024.45,2025-11-20
+Cliente_342,gobierno,Antigua,true,29109.09,2025-06-29
+Cliente_343,minorista,Medellin,true,34309.71,2022-03-28
+Cliente_344,mayorista,Miami,false,29110.17,2026-01-27
+Cliente_345,corporativo,San Pedro Sula,false,46802.23,2025-08-04
+Cliente_346,corporativo,Panama City,true,35007.39,2024-06-14
+Cliente_347,mayorista,San Jose,true,8002.51,2024-08-15
+Cliente_348,corporativo,Puebla,true,16228.21,2022-04-03
+Cliente_349,mayorista,Santa Ana,true,12616.61,2023-07-09
+Cliente_350,mayorista,Cali,true,34184.34,2026-03-15
+Cliente_351,mayorista,Santa Ana,true,42780.01,2022-12-25
+Cliente_352,corporativo,Miami,true,22984.27,2023-03-03
+Cliente_353,minorista,Alajuela,false,12214.15,2023-04-28
+Cliente_354,gobierno,Guadalajara,true,13051.1,2024-08-05
+Cliente_355,minorista,Monterrey,false,9998.07,2025-02-09
+Cliente_356,corporativo,Cali,false,6298.72,2024-03-31
+Cliente_357,minorista,Bogota,true,22877.17,2024-02-15
+Cliente_358,minorista,San Salvador,false,45922.61,2025-05-22
+Cliente_359,corporativo,CDMX,true,1799.9,2024-09-06
+Cliente_360,mayorista,Cali,true,1169.54,2025-11-07
+Cliente_361,gobierno,Ciudad de Guatemala,true,15362.08,2023-11-06
+Cliente_362,corporativo,Ciudad de Guatemala,false,39367.12,2024-09-07
+Cliente_363,minorista,Miami,true,32177.02,2024-08-12
+Cliente_364,minorista,San Salvador,true,15894.14,2022-09-17
+Cliente_365,mayorista,Guadalajara,false,12320.14,2025-01-02
+Cliente_366,corporativo,Panama City,true,26482.74,2024-08-30
+Cliente_367,gobierno,Bogota,true,6385,2024-12-05
+Cliente_368,corporativo,Houston,true,18249.88,2025-04-27
+Cliente_369,corporativo,Colon,true,17118.48,2022-08-20
+Cliente_370,mayorista,Puebla,false,25800.49,2022-11-06
+Cliente_371,minorista,San Jose,false,6555.16,2023-11-01
+Cliente_372,gobierno,San Salvador,true,38489.19,2022-07-17
+Cliente_373,minorista,San Pedro Sula,true,38300.81,2022-09-19
+Cliente_374,mayorista,Tegucigalpa,true,24265.96,2024-03-29
+Cliente_375,gobierno,San Jose,true,21552.3,2025-07-19
+Cliente_376,minorista,Puebla,true,29036.48,2023-10-25
+Cliente_377,minorista,Colon,false,22841.47,2024-09-06
+Cliente_378,corporativo,Monterrey,true,35414.06,2024-04-17
+Cliente_379,gobierno,Colon,true,23376.91,2024-05-16
+Cliente_380,gobierno,CDMX,true,22496.94,2024-04-19
+Cliente_381,corporativo,Panama City,false,15657.3,2025-03-30
+Cliente_382,gobierno,Tegucigalpa,true,21812.27,2022-05-07
+Cliente_383,minorista,Cali,true,50226.82,2024-09-11
+Cliente_384,gobierno,Colon,true,29266.15,2025-05-12
+Cliente_385,gobierno,Santa Ana,true,27942.62,2025-09-20
+Cliente_386,corporativo,Puebla,true,16325.67,2023-05-01
+Cliente_387,minorista,Panama City,true,42969.08,2023-07-25
+Cliente_388,corporativo,Puebla,false,49590.33,2026-02-22
+Cliente_389,corporativo,Santa Ana,true,44290.47,2025-04-27
+Cliente_390,mayorista,Monterrey,true,37446.55,2024-05-24
+Cliente_391,mayorista,Santa Ana,true,10932.32,2023-05-22
+Cliente_392,corporativo,Guadalajara,true,45550.14,2025-07-28
+Cliente_393,minorista,Panama City,true,43142.05,2024-12-08
+Cliente_394,gobierno,Quetzaltenango,true,4432.38,2022-04-28
+Cliente_395,gobierno,Houston,true,39607.78,2024-11-09
+Cliente_396,minorista,Panama City,false,24275.26,2024-06-23
+Cliente_397,gobierno,Panama City,false,28069.53,2025-01-18
+Cliente_398,corporativo,Bogota,true,24243.26,2023-07-30
+Cliente_399,minorista,Medellin,false,22182.4,2023-04-27
+Cliente_400,mayorista,Escuintla,false,32975.77,2022-08-09
+Cliente_401,minorista,Bogota,false,20836.61,2023-02-27
+Cliente_402,gobierno,Cali,true,20378.94,2024-05-05
+Cliente_403,mayorista,Escuintla,true,21566.95,2025-06-10
+Cliente_404,corporativo,Monterrey,true,19724.91,2025-05-22
+Cliente_405,minorista,San Jose,true,7721.39,2023-04-16
+Cliente_406,corporativo,San Pedro Sula,true,25049.62,2024-09-30
+Cliente_407,corporativo,Panama City,true,48854.49,2022-07-23
+Cliente_408,minorista,San Pedro Sula,false,4510.42,2025-03-16
+Cliente_409,gobierno,Ciudad de Guatemala,true,19605.59,2023-01-07
+Cliente_410,corporativo,Bogota,true,34114.84,2024-01-16
+Cliente_411,gobierno,Medellin,true,9433.29,2025-07-17
+Cliente_412,corporativo,Colon,true,37405.25,2025-05-31
+Cliente_413,corporativo,Puebla,true,12100.43,2024-02-19
+Cliente_414,mayorista,San Jose,true,33205.52,2024-02-05
+Cliente_415,minorista,San Salvador,true,48085.7,2026-01-06
+Cliente_416,corporativo,Medellin,true,3296.32,2022-07-07
+Cliente_417,corporativo,San Salvador,true,5933.68,2022-08-30
+Cliente_418,minorista,Quetzaltenango,false,31681.26,2025-03-30
+Cliente_419,gobierno,Bogota,false,10158.06,2023-10-29
+Cliente_420,gobierno,San Pedro Sula,false,31507.82,2022-12-07
+Cliente_421,gobierno,Tegucigalpa,true,27278.7,2023-08-28
+Cliente_422,corporativo,Tegucigalpa,true,41387.87,2024-09-02
+Cliente_423,gobierno,Monterrey,true,5827.72,2024-10-31
+Cliente_424,minorista,San Pedro Sula,false,1348.85,2024-03-03
+Cliente_425,mayorista,Houston,true,3108.53,2024-03-17
+Cliente_426,minorista,Tegucigalpa,true,39180.71,2026-03-08
+Cliente_427,minorista,Escuintla,true,47436.09,2024-11-09
+Cliente_428,gobierno,Medellin,false,15366.49,2022-03-30
+Cliente_429,mayorista,Medellin,false,34521.5,2025-08-01
+Cliente_430,gobierno,San Pedro Sula,true,20928.11,2022-08-13
+Cliente_431,mayorista,Bogota,true,41420.95,2022-07-08
+Cliente_432,gobierno,Los Angeles,true,7279,2025-10-19
+Cliente_433,mayorista,Colon,false,24012.11,2025-11-20
+Cliente_434,gobierno,San Jose,true,41748.56,2022-08-12
+Cliente_435,minorista,Panama City,true,2761.64,2026-04-15
+Cliente_436,mayorista,San Jose,true,33621.91,2026-02-25
+Cliente_437,gobierno,Colon,false,15492.17,2025-08-24
+Cliente_438,minorista,Cali,true,24241.46,2024-06-30
+Cliente_439,corporativo,Colon,true,44614.23,2025-05-11
+Cliente_440,corporativo,Santa Ana,false,1438.95,2023-02-05
+Cliente_441,corporativo,Bogota,true,26423.89,2023-05-02
+Cliente_442,mayorista,San Pedro Sula,false,49180.25,2025-09-09
+Cliente_443,gobierno,Alajuela,false,28176.26,2026-04-28
+Cliente_444,gobierno,San Jose,true,19846.87,2026-03-16
+Cliente_445,minorista,Escuintla,false,20303.57,2023-06-06
+Cliente_446,mayorista,Bogota,true,21006.85,2023-11-09
+Cliente_447,mayorista,Miami,false,9638.62,2026-03-24
+Cliente_448,mayorista,Bogota,false,22187.34,2024-05-13
+Cliente_449,corporativo,Colon,false,38391.74,2024-09-05
+Cliente_450,minorista,Monterrey,false,25830.19,2024-02-03
+Cliente_451,mayorista,Antigua,true,4283.62,2025-05-28
+Cliente_452,minorista,Los Angeles,true,1641.15,2023-02-14
+Cliente_453,minorista,Cali,false,50345.55,2025-12-28
+Cliente_454,mayorista,Miami,true,6959.52,2026-04-09
+Cliente_455,mayorista,Los Angeles,true,25658.41,2026-04-23
+Cliente_456,minorista,Cali,true,31382.14,2023-11-19
+Cliente_457,mayorista,Cali,true,44447.17,2025-10-21
+Cliente_458,gobierno,San Salvador,true,36794.06,2024-03-15
+Cliente_459,mayorista,San Jose,true,9778.17,2023-02-13
+Cliente_460,minorista,Los Angeles,true,34036.02,2025-12-27
+Cliente_461,mayorista,Santa Ana,true,6709.59,2025-01-17
+Cliente_462,mayorista,Guadalajara,false,18509.26,2025-09-07
+Cliente_463,corporativo,Puebla,true,29206.31,2022-12-04
+Cliente_464,gobierno,San Salvador,true,19159.82,2024-03-11
+Cliente_465,corporativo,Miami,true,38187.2,2023-07-26
+Cliente_466,minorista,Colon,true,7795.67,2025-05-28
+Cliente_467,minorista,San Salvador,true,14693.57,2022-09-10
+Cliente_468,mayorista,Medellin,false,32367.36,2023-11-08
+Cliente_469,corporativo,Guadalajara,false,31984.64,2024-12-13
+Cliente_470,minorista,Santa Ana,true,44525.64,2025-09-23
+Cliente_471,corporativo,Los Angeles,true,15770.74,2023-04-10
+Cliente_472,gobierno,San Salvador,true,11443.42,2023-12-15
+Cliente_473,gobierno,Puebla,false,24715.73,2025-12-16
+Cliente_474,mayorista,Panama City,true,29926.25,2023-05-23
+Cliente_475,corporativo,Bogota,true,30567.89,2022-04-20
+Cliente_476,gobierno,Tegucigalpa,false,48228.53,2026-04-15
+Cliente_477,mayorista,Miami,false,25792.67,2026-04-13
+Cliente_478,gobierno,CDMX,true,29849.09,2022-09-19
+Cliente_479,gobierno,Escuintla,true,10081.89,2024-03-21
+Cliente_480,mayorista,San Jose,true,21425.92,2024-04-12
+Cliente_481,mayorista,San Jose,true,31061.16,2023-09-16
+Cliente_482,mayorista,Alajuela,false,21906.95,2025-04-20
+Cliente_483,mayorista,Panama City,true,4433.76,2023-12-07
+Cliente_484,corporativo,Cali,false,26379.26,2024-11-26
+Cliente_485,corporativo,Panama City,true,30548.02,2025-10-04
+Cliente_486,minorista,Puebla,true,22834.75,2024-11-09
+Cliente_487,mayorista,Panama City,true,14009.18,2024-08-24
+Cliente_488,mayorista,Cali,true,33500.49,2024-12-26
+Cliente_489,gobierno,Cali,true,2129.24,2023-12-31
+Cliente_490,mayorista,Miami,true,7149.17,2023-10-13
+Cliente_491,gobierno,Colon,false,10984.54,2025-12-30
+Cliente_492,mayorista,Escuintla,true,33123.15,2022-05-26
+Cliente_493,gobierno,Houston,true,43647.48,2022-07-30
+Cliente_494,minorista,Panama City,true,14274.8,2022-10-24
+Cliente_495,corporativo,San Salvador,false,12634.56,2024-03-15
+Cliente_496,gobierno,Guadalajara,true,17699.21,2023-09-10
+Cliente_497,corporativo,Panama City,false,47196.56,2024-06-16
+Cliente_498,mayorista,Los Angeles,false,14714.3,2023-03-30
+Cliente_499,minorista,Tegucigalpa,false,39948.45,2024-04-03
+Cliente_500,mayorista,Ciudad de Guatemala,true,1086.06,2023-12-04
