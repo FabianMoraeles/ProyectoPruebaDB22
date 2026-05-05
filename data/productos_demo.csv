@@ -1,0 +1,21 @@
+nombre,SKU,precio,peso,perecedero,tipo,categoria,tags
+Yogur Natural,SKU-DEMO-001,15.50,0.5,true,Perecedero,alimentos,nuevo|premium
+Leche Entera 1L,SKU-DEMO-002,12.00,1.0,true,Perecedero,alimentos,oferta
+Pan de Molde,SKU-DEMO-003,22.75,0.8,true,Perecedero,alimentos,nuevo
+Detergente 5L,SKU-DEMO-004,89.90,5.0,false,NoPerecedero,ferreteria,ecologico
+Tornillos M6 x100,SKU-DEMO-005,45.00,2.5,false,NoPerecedero,ferreteria,oferta
+Cargador USB-C,SKU-DEMO-006,150.00,0.2,false,NoPerecedero,electronica,import
+Camiseta Talla M,SKU-DEMO-007,75.00,0.3,false,NoPerecedero,textil,premium
+Queso Manchego 500g,SKU-DEMO-008,98.50,0.5,true,Perecedero,alimentos,import|premium
+Jugo de Naranja 1L,SKU-DEMO-009,18.00,1.1,true,Perecedero,bebidas,oferta
+Foco LED 9W,SKU-DEMO-010,35.00,0.15,false,NoPerecedero,electronica,ecologico
+Carne Molida 1kg,SKU-DEMO-011,85.00,1.0,true,Perecedero,alimentos,congelado
+Atornillador Eléctrico,SKU-DEMO-012,450.00,1.8,false,NoPerecedero,ferreteria,import
+Cereal 500g,SKU-DEMO-013,42.00,0.5,true,Perecedero,alimentos,nuevo
+Mouse Inalámbrico,SKU-DEMO-014,180.00,0.2,false,NoPerecedero,electronica,premium
+Pantalón Jean,SKU-DEMO-015,220.00,0.6,false,NoPerecedero,textil,oferta
+Salmón Fresco 500g,SKU-DEMO-016,165.00,0.5,true,Perecedero,alimentos,premium|congelado
+Aspirina 100u,SKU-DEMO-017,28.00,0.1,false,NoPerecedero,farmacia,
+Galletas 200g,SKU-DEMO-018,18.50,0.2,true,Perecedero,alimentos,nuevo
+Cable HDMI 2m,SKU-DEMO-019,55.00,0.3,false,NoPerecedero,electronica,
+Yogurt Griego 250g,SKU-DEMO-020,24.00,0.25,true,Perecedero,alimentos,premium|ecologico

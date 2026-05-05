@@ -1,0 +1,6 @@
+nombre,pais,rating,activo,categorias,fecha_registro
+Proveedor_Demo_Alpha,Guatemala,4.8,true,alimentos|bebidas,2024-01-15
+Proveedor_Demo_Beta,Mexico,4.5,true,electronica,2024-03-20
+Proveedor_Demo_Gamma,Colombia,3.9,true,textil|ferreteria,2024-06-10
+Proveedor_Demo_Delta,Costa Rica,4.2,false,farmacia,2023-11-05
+Proveedor_Demo_Epsilon,Panama,4.7,true,alimentos|farmacia,2025-02-28
