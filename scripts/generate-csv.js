@@ -49,8 +49,8 @@ function csv(rows) {
   return lines.join('\n');
 }
 
-// ---- Proveedores (300)
-const proveedores = Array.from({ length: 300 }, (_, i) => {
+// ---- Proveedores (400)
+const proveedores = Array.from({ length: 400 }, (_, i) => {
   const pais = pick(paises);
   return {
     nombre: `Proveedor_${i + 1}`,
@@ -62,18 +62,23 @@ const proveedores = Array.from({ length: 300 }, (_, i) => {
   };
 });
 
-// ---- Productos (800)
-const productos = Array.from({ length: 800 }, (_, i) => ({
-  nombre: `Producto_${i + 1}`,
-  SKU: `SKU-${String(i + 1).padStart(5, '0')}`,
-  precio: +(1 + Math.random() * 999).toFixed(2),
-  peso: +(0.1 + Math.random() * 50).toFixed(2),
-  perecedero: Math.random() < 0.3,
-  tags: [pick(tagsProd), pick(tagsProd)].join('|')
-}));
+// ---- Productos (1000) — con columna `tipo` para doble label
+const productos = Array.from({ length: 1000 }, (_, i) => {
+  const esPerecedero = Math.random() < 0.4; // ~40% perecederos
+  return {
+    nombre: `Producto_${i + 1}`,
+    SKU: `SKU-${String(i + 1).padStart(5, '0')}`,
+    precio: +(1 + Math.random() * 999).toFixed(2),
+    peso: +(0.1 + Math.random() * 50).toFixed(2),
+    perecedero: esPerecedero,
+    tipo: esPerecedero ? 'Perecedero' : 'NoPerecedero', // ← para doble label
+    categoria: pick(['alimentos', 'bebidas', 'farmacia', 'electronica', 'textil', 'ferreteria']),
+    tags: [pick(tagsProd), pick(tagsProd)].join('|')
+  };
+});
 
-// ---- Bodegas (150)
-const bodegas = Array.from({ length: 150 }, (_, i) => {
+// ---- Bodegas (200)
+const bodegas = Array.from({ length: 200 }, (_, i) => {
   const pais = pick(paises);
   const cap = 5000 + rand(45000);
   return {
@@ -86,8 +91,8 @@ const bodegas = Array.from({ length: 150 }, (_, i) => {
   };
 });
 
-// ---- Inventario (1200) — each tied to a producto
-const inventario = Array.from({ length: 1200 }, (_, i) => {
+// ---- Inventario (1500) — each tied to a producto
+const inventario = Array.from({ length: 1500 }, (_, i) => {
   const min = 10 + rand(200);
   const qty = rand(min * 3);
   return {
@@ -100,8 +105,8 @@ const inventario = Array.from({ length: 1200 }, (_, i) => {
   };
 });
 
-// ---- Rutas (800)
-const rutas = Array.from({ length: 800 }, (_, i) => ({
+// ---- Rutas (1000)
+const rutas = Array.from({ length: 1000 }, (_, i) => ({
   id: `RUT-${String(i + 1).padStart(5, '0')}`,
   distancia_km: +(10 + Math.random() * 3000).toFixed(2),
   tiempo_horas: +(0.5 + Math.random() * 80).toFixed(2),
@@ -110,8 +115,8 @@ const rutas = Array.from({ length: 800 }, (_, i) => ({
   tipo: pick(tiposRuta)
 }));
 
-// ---- Ordenes (1200)
-const ordenes = Array.from({ length: 1200 }, (_, i) => {
+// ---- Ordenes (1500)
+const ordenes = Array.from({ length: 1500 }, (_, i) => {
   const em = -rand(60);
   return {
     numero_orden: `ORD-${String(i + 1).padStart(6, '0')}`,
@@ -123,8 +128,8 @@ const ordenes = Array.from({ length: 1200 }, (_, i) => {
   };
 });
 
-// ---- Clientes (500)
-const clientes = Array.from({ length: 500 }, (_, i) => {
+// ---- Clientes (700)
+const clientes = Array.from({ length: 700 }, (_, i) => {
   const pais = pick(paises);
   return {
     nombre: `Cliente_${i + 1}`,
@@ -136,8 +141,8 @@ const clientes = Array.from({ length: 500 }, (_, i) => {
   };
 });
 
-// ---- Transporte (200)
-const transporte = Array.from({ length: 200 }, (_, i) => ({
+// ---- Transporte (300)
+const transporte = Array.from({ length: 300 }, (_, i) => ({
   nombre: `Transportista_${i + 1}`,
   vehiculo: pick(vehiculos),
   capacidad_kg: +(500 + Math.random() * 30000).toFixed(2),

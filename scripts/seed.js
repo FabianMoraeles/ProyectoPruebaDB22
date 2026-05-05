@@ -97,10 +97,15 @@ async function main() {
     `UNWIND $rows AS r MERGE (n:Proveedor {nombre: r.nombre})
      SET n.pais=r.pais, n.rating=toFloat(r.rating), n.activo=r.activo,
          n.categorias=r.categorias, n.fecha_registro=date(r.fecha_registro)`);
+  // Producto con DOBLE LABEL: (:Producto:Perecedero) o (:Producto:NoPerecedero)
+  // Usa FOREACH-trick para SET label condicional sin necesitar APOC.
   await batch('Producto', productos,
-    `UNWIND $rows AS r MERGE (n:Producto {SKU: r.SKU})
+    `UNWIND $rows AS r
+     MERGE (n:Producto {SKU: r.SKU})
      SET n.nombre=r.nombre, n.precio=toFloat(r.precio), n.peso=toFloat(r.peso),
-         n.perecedero=r.perecedero, n.tags=r.tags`);
+         n.categoria=r.categoria, n.tags=r.tags
+     FOREACH (_ IN CASE WHEN r.tipo = 'Perecedero' OR r.perecedero = true THEN [1] ELSE [] END | SET n:Perecedero)
+     FOREACH (_ IN CASE WHEN r.tipo = 'NoPerecedero' OR (r.tipo IS NULL AND (r.perecedero = false OR r.perecedero IS NULL)) THEN [1] ELSE [] END | SET n:NoPerecedero)`);
   await batch('Bodega', bodegas,
     `UNWIND $rows AS r MERGE (n:Bodega {nombre: r.nombre})
      SET n.ciudad=r.ciudad, n.pais=r.pais, n.capacidad_total=toInteger(r.capacidad_total),

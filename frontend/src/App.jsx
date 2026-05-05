@@ -4,6 +4,8 @@ import Entidad from './pages/Entidad.jsx';
 import Relaciones from './pages/Relaciones.jsx';
 import Consultas from './pages/Consultas.jsx';
 import Carga from './pages/Carga.jsx';
+import DobleEtiqueta from './pages/DobleEtiqueta.jsx';
+import DataScience from './pages/DataScience.jsx';
 
 const entities = [
   { key: 'proveedores', label: 'Proveedores', entityLabel: 'Proveedor', idKey: 'nombre',
@@ -40,6 +42,8 @@ export default function App() {
         <NavLink to="/relaciones" className={linkCls}>Relaciones</NavLink>
         <NavLink to="/consultas" className={linkCls}>Consultas</NavLink>
         <NavLink to="/carga" className={linkCls}>Carga CSV</NavLink>
+        <NavLink to="/clasificacion" className={linkCls}>Clasificación</NavLink>
+        <NavLink to="/data-science" className={linkCls}>Graph Analytics</NavLink>
       </aside>
       <main className="flex-1 p-6 overflow-auto">
         <Routes>
@@ -48,6 +52,8 @@ export default function App() {
           <Route path="/relaciones" element={<Relaciones entities={entities} />} />
           <Route path="/consultas" element={<Consultas />} />
           <Route path="/carga" element={<Carga />} />
+          <Route path="/clasificacion" element={<DobleEtiqueta />} />
+          <Route path="/data-science" element={<DataScience />} />
           <Route path="*" element={<Navigate to="/" />} />
         </Routes>
       </main>

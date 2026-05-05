@@ -10,6 +10,7 @@ app.use(express.json({ limit: '10mb' }));
 // Entity routes
 app.use('/api/proveedores', require('./routes/proveedores'));
 app.use('/api/productos', require('./routes/productos'));
+app.use('/api/productos-doble', require('./routes/productosDoble'));
 app.use('/api/bodegas', require('./routes/bodegas'));
 app.use('/api/inventario', require('./routes/inventario'));
 app.use('/api/rutas', require('./routes/rutas'));
@@ -21,6 +22,7 @@ app.use('/api/transporte', require('./routes/transporte'));
 app.use('/api/relaciones', require('./routes/relaciones'));
 app.use('/api/nodos', require('./routes/nodos'));
 app.use('/api/consultas', require('./routes/consultas'));
+app.use('/api/data-science', require('./routes/dataScience'));
 app.use('/api/carga', require('./routes/carga'));
 
 app.get('/', (_req, res) => res.json({ ok: true, msg: 'Supply Chain Neo4j API' }));
